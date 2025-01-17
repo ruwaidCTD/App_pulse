@@ -83,40 +83,33 @@ include 'includes/header_script.php';
                         <div class="md:grid md:grid-cols-2 md:mr-7 mt-6 md:mt-0">
                           <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
-                              src="https://images.ctfassets.net/mi665aivb0at/447FEeZLXNsODMA1SbjpvP/d900ca55b6464f2de2248aba1c452b9a/php.svg"
-                              alt="PHP" />
+                              src="./dist/images/flutter.svg"
+                              alt="Flutter" />
                             <div class="hoverClassTitle"><span>Flutter</span><span>Flutter</span></div>
                            
                           </a>
                           <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
-                              src="https://images.ctfassets.net/mi665aivb0at/K7kk8DCknLA9jtHyTFEDy/3cede6acd001acf750c92ca0041e0cd9/MySQL.svg"
+                              src="./dist/images/kotlinr.svg"
                               alt="MySQL" />
                               <div class="hoverClassTitle"><span>Kotlin</span><span>Kotlin</span></div>
                        
                           </a>
-                         
-                     
-                        
                         </div>
                         <div class="md:grid md:grid-cols-2 md:mr-7 mt-6 md:mt-0">
                           <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
-                              src="https://images.ctfassets.net/mi665aivb0at/447FEeZLXNsODMA1SbjpvP/d900ca55b6464f2de2248aba1c452b9a/php.svg"
+                              src="./dist/images/dart.svg"
                               alt="PHP" />
                             <div class="hoverClassTitle"><span>Dart</span><span>Dart</span></div>
-                           
                           </a>
                           <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
-                              src="https://images.ctfassets.net/mi665aivb0at/K7kk8DCknLA9jtHyTFEDy/3cede6acd001acf750c92ca0041e0cd9/MySQL.svg"
+                              src="./dist/images/react-native.svg"
                               alt="MySQL" />
                               <div class="hoverClassTitle"><span>React Native</span><span>React Native</span></div>
                        
                           </a>
-                         
-                     
-                        
                         </div>
                       </p>
                      
