@@ -610,7 +610,7 @@
                                             </h2>
                                         </div>
                                         <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl"></p>
-                                        <div class="mt-12 lg:mt-20 grid max-w-2xl grid-cols-1 lg:gap-14 gap-6 md:gap-y-16 text-base leading-7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+                                        <div class="mt-12 lg:mt-20 grid max-w-2xl grid-cols-1 lg:gap-14 gap-6 md:gap-y-16 text-base leading-7 s m:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
                                             <div>
                                                 <h3 class="font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
                                                     Proven Expertise
@@ -889,62 +889,138 @@
                                         </div>
                                     </div>
                                 </section>
-                                <!-- <section class="service-provided">
+                                <section class="service-provided">
                                     <div class="px-6 lg:px-8 pt-12 lg:pt-20 max-w-7xl mx-auto">
                                         <div class="lg:grid lg:grid-cols-12 lg:gap-8 2xl:h-[550px]">
                                             <div class="lg:col-span-5">
                                                 <img class="w-full" src="static/accordionGame-5d65aa40a32bee873c1784335235c736.webp" alt="Game Services" />
                                             </div>
                                             <div class="lg:col-span-7">
-                                                <div class="space-y-6 lg:space-y-10 pt-6 lg:pt-0 undefined">
-                                                    <div class="pt-2" data-headlessui-state="open">
-                                                        <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R4pt9:" type="button" aria-expanded="true" data-headlessui-state="open">
-                                                            <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                                                                Veteran Development Teams
-                                                            </h3>
-                                                            <span class="ml-6 flex h-7 items-center">
-                                                                <span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] rotate-180 text-theme mt-[15px]">-</span>
-                                                            </span>
-                                                        </button>
-                                                        <div class="overflow-hidden">
-                                                            <dd class="mt-2 pr-12" id="headlessui-disclosure-panel-:R8pt9:" data-headlessui-state="open">
-                                                                <p class="text-black mt-5 pb-[20px] text-sm lg:text-md xl:text-lg 2xl:text-xl">
-                                                                    Our diverse team of 350+ passionate artists, designers, and developers has delivered games of all scales. From casual mobile games to high-definition console titles, App Pulse
-                                                                    has all the expertise required to bring your creative vision to life.
-                                                                </p>
-                                                                <div class="flex gap-3 flex-wrap"></div>
-                                                            </dd>
-                                                        </div>
-                                                    </div>
-                                                    <div class="pt-2" data-headlessui-state="">
-                                                        <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R59t9:" type="button" aria-expanded="false" data-headlessui-state="">
-                                                            <h3 class="undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                                                                Innovative Game Solutions
-                                                            </h3>
-                                                            <span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span>
-                                                        </button>
-                                                    </div>
-                                                    <div class="pt-2" data-headlessui-state="">
-                                                        <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R5pt9:" type="button" aria-expanded="false" data-headlessui-state="">
-                                                            <h3 class="undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                                                                Agile Project Management
-                                                            </h3>
-                                                            <span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span>
-                                                        </button>
-                                                    </div>
-                                                    <div class="pt-2" data-headlessui-state="">
-                                                        <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R69t9:" type="button" aria-expanded="false" data-headlessui-state="">
-                                                            <h3 class="undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                                                                Scalable Resource Allocation
-                                                            </h3>
-                                                            <span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span>
-                                                        </button>
+                                                <!--  -->
+                                            <div class="px-6 lg:px-8 max-w-7xl mx-auto  ">
+                                           
+                                                <div class="lg:grid">
+                                                    <!-- Image Section -->
+                                                    <!-- <div class="lg:col-span-5">
+                                                            <img id="dynamic-image" class="w-full fade-in" src="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" alt="Mobile Development Services" />
+                                                        </div> -->
+                                                    <!-- Content Section -->
+                                                    <div class="lg:col-span-7 lg:pt-0 pt-5">
+                                                        <!-- <div class="space-y-6 lg:space-y-10"> -->
+                                                            <!-- Native Apps -->
+                                                            <div class="accordion-item">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left" data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Veteran Development Teams</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                        Our diverse team of 350+ passionate artists, designers, and developers has delivered games of all scales. From casual mobile games to high-definition console titles, Cubix has all the expertise required to bring
+                                                                        your creative vision to life.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Innovative Game Solutions</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    Our future-ready tech stack enables us to deliver exceptional game development services. We use the latest game development tools, such as Unity, Unreal Engine, Godot, etc., to craft experiences that push boundaries and raise industry standards.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Agile Project Management</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    On-time delivery is crucial for the success of your game development project, and the experts at our game dev studio ensure that by infusing agile methodologies into our development workflows, unlocking your game’s true potential.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Scalable Resource Allocation</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    No matter the scale, our flexible staffing model immensely benefits your business. As a go-to partner for game development outsourcing with over 150+ games under our belt, Cubix is well-equipped to power your project from start to finish.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        <!-- </div> -->
                                                     </div>
                                                 </div>
+                                                <script>
+   
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const accordionToggles = document.querySelectorAll(".accordion-toggle");
+        const accordionContents = document.querySelectorAll(".accordion-content");
+        const dynamicImage = document.getElementById("dynamic-image");
+
+        accordionToggles.forEach((button, index) => {
+            const content = button.nextElementSibling;
+
+            // Open the first accordion by default
+            if (index === 0) {
+                content.classList.remove("hidden"); // Show the first content
+                button.querySelector("span span").innerText = "-"; // Update indicator
+                if (dynamicImage) {
+                    const defaultImageSrc = button.getAttribute("data-image");
+                    dynamicImage.src = defaultImageSrc;
+                }
+            } else {
+                content.classList.add("hidden"); // Ensure all others are hidden
+            }
+
+            // Event listener for toggling accordion
+            button.addEventListener("click", () => {
+                // Close all accordions
+                accordionContents.forEach((item) => {
+                    item.classList.add("hidden");
+                    item.previousElementSibling.querySelector("span span").innerText = "+";
+                });
+
+                // Open the clicked accordion
+                if (content.classList.contains("hidden")) {
+                    content.classList.remove("hidden"); // Show the content
+                    button.querySelector("span span").innerText = "-"; // Update indicator
+                }
+
+                // Update the image
+                const imageSrc = button.getAttribute("data-image");
+                if (dynamicImage) {
+                    dynamicImage.src = imageSrc;
+                }
+            });
+        });
+    });
+</script>
+
+
+
+
+                                                <!--  -->
+                                            </div>
+
                                             </div>
                                         </div>
                                     </div>
-                                </section> -->
+                                </section>
                                 <img src="static/gameBannerImg-34690e64c69c6b0b6773908ccb24ff33.webp" alt="Innovative Games" class="undefined w-full mt-8 lg:mt-24" />
                                 <section class="App Pulse-guarantees">
                                     <div class="undefined px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto">
