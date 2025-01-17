@@ -163,7 +163,8 @@ include 'includes/header_script.php';
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
-                          <img /><span
+                          <img />
+                          <span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">03</span>
                           <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Design &amp;
                             Development:</h3>

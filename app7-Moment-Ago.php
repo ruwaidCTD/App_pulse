@@ -30,10 +30,10 @@ include 'includes/header_script.php';
                       <div class="overflow-hidden">
                         <h1
                           class=" lg:w-[70%] 2xl:w-[85%] font-bold my-10 text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          Moment Ago</h1>
+                          Moments Ago – Relive Life, One Photo at a Time</h1>
                       </div>
-                      <button type="button" class=" border-black text-black px-3 py-1 font-semibold pointer-events-none rounded-full text-sm border">
-                        Mobile App</button>
+                      <!-- <button type="button" class=" border-black text-black px-3 py-1 font-semibold pointer-events-none rounded-full text-sm border">
+                        Mobile App</button> -->
                     </div>
                   </div>
                 </div>
@@ -49,10 +49,8 @@ include 'includes/header_script.php';
                           class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
                           <span>about the client.</span></h2>
                       </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Likehoop redefines
-                        social media for iOS users by offering a platform focused on discovery and sharing of daily
-                        social tasks. It stands out with its visually engaging interface and interactive features,
-                        allowing users to manage and share photos, activities, and trends effortlessly.<br /><br /></p>
+                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                      In a world where every moment holds a story, capturing and sharing memories has become an essential part of our lives. Our client envisioned a platform that goes beyond just taking photos—it’s about preserving emotions, cherishing experiences, and connecting with others through shared memories. Their mission was clear: to create a seamless, intuitive app where every user can turn fleeting moments into lasting treasures.<br /><br /></p>
                   
                     </div>
                     <div class="lg:col-span-6 lg:pt-0 pt-8">
@@ -72,12 +70,9 @@ include 'includes/header_script.php';
                       <div class="lg:overflow-hidden">
                         <h2
                           class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          <span>innovating social media interaction.</span><br class="block lg:hidden" /></h2>
+                          <span>Moments Ago – Capture, Relive, and Share Your Story:</span><br class="block lg:hidden" /></h2>
                       </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Likehoop transforms
-                        how users engage with trends and each other. Its full-screen timeline and Hoops feature make
-                        discovering and jumping into new worlds of trends a seamless experience. The app encourages
-                        creative expression and connection through its unique, pictorial user interface.</p>
+                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Moments Ago redefines the art of photography by offering users a platform to capture, organize, and share their most cherished memories. Whether it’s a spontaneous selfie or a planned photoshoot, Moments Ago transforms everyday photos into a vibrant tapestry of your life’s journey.</p>
                     </div>
                     <div class="mt-8 flex flex-col justify-end">
                       <p class="text-sm md:text-xl 2xl:text-2xl"><span
@@ -100,40 +95,12 @@ include 'includes/header_script.php';
                      
                     </div>
                   </div>
-                </div><img
-                  src="https://images.ctfassets.net/mi665aivb0at/3sXUE2GhSuHwldxIGTE5UD/ba74a8940a79b32d318328d33c237ae0/likehoop2ndFold.webp"
-                  class="w-full" alt="Comments" />
-              </section>
-              <section class="challenge-sec">
-                <div class="px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto">
-                  <div class="lg:grid lg:grid-cols-12 gap-28">
-                    <div class="lg:col-span-6">
-                      <div class="lg:overflow-hidden">
-                        <h2
-                          class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          <span>our challenge.</span></h2>
-                      </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Creating a vibrant
-                        and user-friendly social media platform that revolutionizes how creativity is shared and
-                        discovered, fostering unique connections among users.</p>
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/22lrZWXE8yInh4rd53kYiw/2606c55847d5233e26a41ca2a4710201/screen1.webp"
-                          class="max-w-full lg:max-w-[506px]  h-auto mt-12 lg:mt-40" alt="Filter" /></div>
-                    </div>
-                    <div class="lg:col-span-6 lg:pt-0 pt-10 flex flex-col gap-y-12 lg:gap-y-20">
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/DPwsQ4OPe91bWTjymEuFB/93755b6074ec826db67323bfdfebd436/likehoopscreen1.webp"
-                          class="max-w-full lg:max-w-[506px] h-auto" alt="Messages" /></div>
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/1jJB9GvbBjctH1dfVrOvQk/ee495e562c9e049c4c10d7ef81536d86/screen3.webp"
-                          class="max-w-full lg:max-w-[506px] h-auto" alt="Dashboard" /></div>
-                    </div>
-                  </div>
                 </div>
+                <!-- <img
+                  src="https://images.ctfassets.net/mi665aivb0at/3sXUE2GhSuHwldxIGTE5UD/ba74a8940a79b32d318328d33c237ae0/likehoop2ndFold.webp"
+                  class="w-full" alt="Comments" /> -->
               </section>
+       
               <section class="ProcessSection-sec">
                 <div class="px-6 lg:px-8 pt-14 md:pt-[10.5rem] max-w-7xl mx-auto">
                   <div class="lg:grid lg:grid-cols-12">
@@ -152,19 +119,16 @@ include 'includes/header_script.php';
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">01</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Research &amp;
-                            Analysis:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Investigate
-                            social media trends and user engagement strategies.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Ideation:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">We began by identifying the key aspects users seek in a memory-capturing app: effortless photo-taking, intuitive organization, and an interactive sharing experience. Exploring how people engage with their photos, we uncovered opportunities to enhance the user experience through AI-powered photo categorization, location-based memory tagging, and private or public sharing options.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">02</span>
                           <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                            Conceptualization:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Design a
-                            platform that fosters creative sharing and discovery.</p>
+                          Competitor Analysis:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">By analyzing leading platforms like Instagram and Google Photos, we discovered areas for improvement: lack of personal connection, limited storytelling capabilities, and fragmented photo organization. Inspired by these insights, we designed Moments Ago as a comprehensive platform where every photo becomes part of a meaningful narrative.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
@@ -172,26 +136,29 @@ include 'includes/header_script.php';
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">03</span>
                           <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Design &amp;
                             Development:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Develop a
-                            visually appealing app with easy navigation and interactive features.</p>
-                        </div>
+                            <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                            Our design team focused on creating a clean, elegant interface that allows users to focus on their memories. The development process included:</p>
+                          <ul class="design-list">
+  <li><strong>Photo Capture & Editing:</strong> A seamless camera interface with advanced editing tools to enhance every shot.</li>
+  <li><strong>Memory Albums:</strong> Organize photos into themed albums with customizable layouts and captions.</li>
+  <li><strong>Social Sharing:</strong> Share moments privately with loved ones or publicly with the world.</li>
+  <li><strong>AI Features:</strong> Smart categorization, facial recognition, and location tagging for effortless photo organization.</li>
+
+</ul>
+                          </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">04</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Testing &amp;
-                            Quality Assurance:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Ensure a smooth,
-                            engaging user experience across all functionalities.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Implementation & Testing:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">We conducted extensive testing to ensure Moments Ago functions flawlessly across devices. From usability tests with diverse user groups to stress testing during high-usage scenarios, every feature was refined for optimal performance.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">05</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Deployment &amp;
-                            Launch:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Release the app
-                            on the iOS platform to captivate and grow a creative community.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Launch & Support:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">With the client’s approval, Moments Ago was launched on iOS and Android platforms. Post-launch, our support team continues to monitor app performance, provide regular updates, and introduce exciting features like AI-generated memory collages and enhanced privacy settings.</p>
                         </div>
                       </div>
                     </div>

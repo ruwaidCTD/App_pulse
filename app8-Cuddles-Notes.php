@@ -5,7 +5,7 @@
   <meta charSet="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <link rel="icon" type="image/x-icon" href="./dist/images/favicon.ico">
-  <title data-gatsby-head="true">Portfolio: Mobile App Moment Ago | App pulse</title>
+  <title data-gatsby-head="true">Portfolio: Mobile Cuddle Notes App | App pulse</title>
 </head>
 <?php
 include 'includes/header_script.php';
@@ -30,16 +30,16 @@ include 'includes/header_script.php';
                       <div class="overflow-hidden">
                         <h1
                           class=" lg:w-[70%] 2xl:w-[85%] font-bold my-10 text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          Cuddles Notes</h1>
+                          Cuddle Notes - Redefining the Dating Experience</h1>
                       </div>
-                      <button type="button" class=" border-black text-black px-3 py-1 font-semibold pointer-events-none rounded-full text-sm border">
-                        Mobile App</button>
+                      <!-- <button type="button" class=" border-black text-black px-3 py-1 font-semibold pointer-events-none rounded-full text-sm border">
+                        Mobile App</button> -->
                     </div>
                   </div>
                 </div>
               </section><img
-                src="./dist/images/portfolio/08.jpg"
-                loading="lazy" class="w-full" alt="Cuddles Notes App" />
+                src="./dist/images/portfolio/07.jpg"
+                loading="lazy" class="w-full" alt="Moment Ago App" />
               <section class="client-sec overflow-hidden">
                 <div class="px-6 lg:px-8 pt-14 md:pt-[10.5rem] max-w-7xl mx-auto">
                   <div class="lg:grid lg:grid-cols-12">
@@ -49,10 +49,8 @@ include 'includes/header_script.php';
                           class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
                           <span>about the client.</span></h2>
                       </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Likehoop redefines
-                        social media for iOS users by offering a platform focused on discovery and sharing of daily
-                        social tasks. It stands out with its visually engaging interface and interactive features,
-                        allowing users to manage and share photos, activities, and trends effortlessly.<br /><br /></p>
+                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                      In today’s fast-paced world, finding meaningful connections has become a challenge. Our client envisioned a transformative platform where individuals can not only meet potential partners but also build genuine connections in a safe, fun, and engaging environment. Their mission was simple yet profound: to create a dating app that seamlessly blends communication, enjoyment, and trust to help users find their perfect match.<br /><br /></p>
                   
                     </div>
                     <div class="lg:col-span-6 lg:pt-0 pt-8">
@@ -72,68 +70,64 @@ include 'includes/header_script.php';
                       <div class="lg:overflow-hidden">
                         <h2
                           class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          <span>innovating social media interaction.</span><br class="block lg:hidden" /></h2>
+                          <span>Cuddle Notes – Where Love Meets Technology: </span><br class="block lg:hidden" /></h2>
                       </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Likehoop transforms
-                        how users engage with trends and each other. Its full-screen timeline and Hoops feature make
-                        discovering and jumping into new worlds of trends a seamless experience. The app encourages
-                        creative expression and connection through its unique, pictorial user interface.</p>
+                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Cuddle Notes takes the dating experience to the next level by offering a comprehensive platform designed to help users connect, communicate, and cultivate relationships. With innovative features like real-time chats, voice calls, and picture sharing, Cuddle Notes ensures that love is just a tap away.</p>
                     </div>
                     <div class="mt-8 flex flex-col justify-end">
                       <p class="text-sm md:text-xl 2xl:text-2xl"><span
                           class="text-black text-opacity-60 font-medium">Tech Stack:
-                        </span><br />
-                        <div class="md:grid md:grid-cols-2 md:mr-7 mt-6 md:mt-0"><a
-                            class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
+                        </span>
+                       
+                        <br />
+                        <div class="md:grid md:grid-cols-2 md:mr-7 mt-6 md:mt-0">
+                          <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
                               src="https://images.ctfassets.net/mi665aivb0at/447FEeZLXNsODMA1SbjpvP/d900ca55b6464f2de2248aba1c452b9a/php.svg"
                               alt="PHP" />
-                            <div class="hoverClassTitle"><span>PHP</span><span>PHP</span></div>
-                          </a><a
-                            class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
+                            <div class="hoverClassTitle"><span>Flutter</span><span>Flutter</span></div>
+                           
+                          </a>
+                          <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
                             <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
                               src="https://images.ctfassets.net/mi665aivb0at/K7kk8DCknLA9jtHyTFEDy/3cede6acd001acf750c92ca0041e0cd9/MySQL.svg"
                               alt="MySQL" />
-                            <div class="hoverClassTitle"><span>MySQL</span><span>MySQL</span></div>
-                          </a></div>
+                              <div class="hoverClassTitle"><span>Kotlin</span><span>Kotlin</span></div>
+                       
+                          </a>
+                         
+                     
+                        
+                        </div>
+                        <div class="md:grid md:grid-cols-2 md:mr-7 mt-6 md:mt-0">
+                          <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
+                            <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
+                              src="https://images.ctfassets.net/mi665aivb0at/447FEeZLXNsODMA1SbjpvP/d900ca55b6464f2de2248aba1c452b9a/php.svg"
+                              alt="PHP" />
+                            <div class="hoverClassTitle"><span>Dart</span><span>Dart</span></div>
+                           
+                          </a>
+                          <a class="home-module--buttonChange--28cf1 mt-5 w-[200px] mr-2 customClasse bg-gray-100 px-3.5 py-5 border-transparent rounded-3xl sm:rounded-[2.45rem] font-normal md:text-lg text-sm hover:bg-black hover:text-white transition duration-500 flex flex-row items-center lg:gap-5 gap-3 md:hover:shadow-lg md:hover:shadow-slate-400">
+                            <img class="md:h-[35px] md:w-[35px] h-[25px] w-[25px] hoverClass"
+                              src="https://images.ctfassets.net/mi665aivb0at/K7kk8DCknLA9jtHyTFEDy/3cede6acd001acf750c92ca0041e0cd9/MySQL.svg"
+                              alt="MySQL" />
+                              <div class="hoverClassTitle"><span>React Native</span><span>React Native</span></div>
+                       
+                          </a>
+                         
+                     
+                        
+                        </div>
                       </p>
                      
                     </div>
                   </div>
-                </div><img
-                  src="https://images.ctfassets.net/mi665aivb0at/3sXUE2GhSuHwldxIGTE5UD/ba74a8940a79b32d318328d33c237ae0/likehoop2ndFold.webp"
-                  class="w-full" alt="Comments" />
-              </section>
-              <section class="challenge-sec">
-                <div class="px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto">
-                  <div class="lg:grid lg:grid-cols-12 gap-28">
-                    <div class="lg:col-span-6">
-                      <div class="lg:overflow-hidden">
-                        <h2
-                          class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          <span>our challenge.</span></h2>
-                      </div>
-                      <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Creating a vibrant
-                        and user-friendly social media platform that revolutionizes how creativity is shared and
-                        discovered, fostering unique connections among users.</p>
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/22lrZWXE8yInh4rd53kYiw/2606c55847d5233e26a41ca2a4710201/screen1.webp"
-                          class="max-w-full lg:max-w-[506px]  h-auto mt-12 lg:mt-40" alt="Filter" /></div>
-                    </div>
-                    <div class="lg:col-span-6 lg:pt-0 pt-10 flex flex-col gap-y-12 lg:gap-y-20">
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/DPwsQ4OPe91bWTjymEuFB/93755b6074ec826db67323bfdfebd436/likehoopscreen1.webp"
-                          class="max-w-full lg:max-w-[506px] h-auto" alt="Messages" /></div>
-                      <div class="inline-flex overflow-hidden">
-                        <img
-                          src="https://images.ctfassets.net/mi665aivb0at/1jJB9GvbBjctH1dfVrOvQk/ee495e562c9e049c4c10d7ef81536d86/screen3.webp"
-                          class="max-w-full lg:max-w-[506px] h-auto" alt="Dashboard" /></div>
-                    </div>
-                  </div>
                 </div>
+                <!-- <img
+                  src="https://images.ctfassets.net/mi665aivb0at/3sXUE2GhSuHwldxIGTE5UD/ba74a8940a79b32d318328d33c237ae0/likehoop2ndFold.webp"
+                  class="w-full" alt="Comments" /> -->
               </section>
+       
               <section class="ProcessSection-sec">
                 <div class="px-6 lg:px-8 pt-14 md:pt-[10.5rem] max-w-7xl mx-auto">
                   <div class="lg:grid lg:grid-cols-12">
@@ -152,19 +146,18 @@ include 'includes/header_script.php';
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">01</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Research &amp;
-                            Analysis:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Investigate
-                            social media trends and user engagement strategies.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                            Ideation:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                          We started by understanding the core desires of modern daters: authenticity, ease of use, and meaningful engagement. By analyzing existing dating platforms, we identified gaps such as lack of trust-building features and limited communication tools. This insight guided us to design a solution that prioritizes user safety, interaction, and enjoyment.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">02</span>
                           <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-                            Conceptualization:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Design a
-                            platform that fosters creative sharing and discovery.</p>
+                          Competitor Analysis:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">We thoroughly examined leading platforms like Tinder and Bumble. While these apps have revolutionized the dating industry, we noticed challenges such as impersonal interactions and minimal communication options. This inspired us to create Cuddle Notes as a platform where users can enjoy deeper interactions through enhanced chat options, voice calls, and multimedia sharing.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
@@ -172,26 +165,29 @@ include 'includes/header_script.php';
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">03</span>
                           <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Design &amp;
                             Development:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Develop a
-                            visually appealing app with easy navigation and interactive features.</p>
-                        </div>
+                            <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                            Our team developed a sleek, intuitive interface that ensures effortless navigation and a delightful user experience. Key features include:</p>
+                          <ul class="design-list">
+  <li><strong>User Profiles:</strong> Allowing users to create detailed profiles with interests, preferences, and photos to enhance compatibility.</li>
+  <li><strong>Advanced Communication Tools:</strong> Real-time chat, voice call functionality, and picture-sharing capabilities to foster genuine connections.</li>
+  <li><strong>Matchmaking Algorithm:</strong> An intelligent system that suggests compatible matches based on user preferences and behavior.</li>
+  <li><strong>Safety Features:</strong> Profile verification and reporting tools to ensure a secure environment for all users.</li>
+
+</ul>
+                          </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">04</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Testing &amp;
-                            Quality Assurance:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Ensure a smooth,
-                            engaging user experience across all functionalities.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Implementation & Testing:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">The app underwent extensive testing phases to ensure reliability and performance. Collaborating with beta testers and integrating feedback, we fine-tuned every aspect of the app—from user experience to system responsiveness. Rigorous stress testing ensured Cuddle Notes performs seamlessly during peak usage.</p>
                         </div>
                         <div style="background:#F1F1F1"
                           class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
                           <img /><span
                             class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">05</span>
-                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Deployment &amp;
-                            Launch:</h3>
-                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Release the app
-                            on the iOS platform to captivate and grow a creative community.</p>
+                          <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Launch & Support:</h3>
+                          <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">With the client's approval, Cuddle Notes was launched across iOS and Android platforms. Post-launch, our support team continues to monitor user feedback, introduce updates, and roll out new features such as AI-driven match recommendations and gamified interaction options to keep the experience fresh and engaging.</p>
                         </div>
                       </div>
                     </div>
