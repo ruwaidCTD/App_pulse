@@ -223,6 +223,7 @@ include 'includes/header_script.php';
                   </div>
                 </div>
               </section>
+              <?php include 'main_sections/team-btn.php'?>
               <section class="requestServiceAndroid-sec ">
                                 <div class="mx-auto max-w-7xl px-6 pt-14 md:pt-24 lg:pt-[10.5rem] md:px-8">
                                     <div class="md:flex">
