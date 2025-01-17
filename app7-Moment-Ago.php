@@ -263,7 +263,7 @@ include 'includes/header_script.php';
                                             </div>
                                             <div class="flex mt-12">
                                                 <button
-                                                    class="header-module--buttonChange--18e23 bg-black text-white items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
+                                                    class="open-modal header-module--buttonChange--18e23 bg-black text-white items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
                                                         class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span><span
                                                         class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span></button>
                                             </div>
@@ -393,215 +393,6 @@ include 'includes/header_script.php';
                                     </div>
                                 </div>
                             </section>
-
-              <!-- <section
-                class="businessMetrics-sec bg-dark-theme z-10 pt-14 md:pt-[10.5rem] mt-14 md:mt-[10.5rem] mb-10 md:mb-[32rem]">
-                <div class="px-6 lg:px-8 max-w-7xl mx-auto pb-[148px] md:pb-[460px]">
-                  <div class="2xl:max-w-4xl lg:max-w-3xl">
-                    <div class="lg:overflow-hidden">
-                      <h2
-                        class="font-bold text-white pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                        <span>innovating social engagement with likehoosp.</span></h2>
-                    </div>
-                    <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Likehoop reimagines
-                      social networking, offering a platform where creativity knows no bounds. It&#x27;s designed to
-                      captivate and connect users by:</p>
-                  </div>
-                  <div class="xl:max-w-3xl flex flex-col gap-y-4 mt-6 lg:mt-[72px] mb-[36px]">
-                    <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img
-                        src="./dist/images/check-white.svg"
-                        class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Trend Discovery
-                            Through Hoops: Jump into the latest social waves.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Profile
-                            Customization: Tailor your space with music and visuals.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Instant Media
-                            Sharing: Capture and share moments with ease.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Content Filters:
-                            Bring your photos to life with unique filters.</p>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="max-w-7xl mx-auto relative">
-                    <img
-                      src="https://images.ctfassets.net/mi665aivb0at/2PEKRvG27K0soELgLcuzWp/3bc711fd9be63c7f56d93335f3221074/likehoop4thFold.webp"
-                      class="absolute lg:top-full lg:left-1/2 lg:-translate-x-1/2 w-full object-cover lg:h-[800px] rounded-3xl mt-8 lg:mt-[3.75rem]"
-                      alt="Profile" />
-                  </div>
-                </div>
-              </section> -->
-
-
-              <!-- <section class="influencingBussiness-sec z-20 pt-14 sm:pt-0">
-                <div class="px-6 lg:px-8 max-w-7xl mx-auto ">
-                  <div class="max-w-md lg:max-w-md xl:max-w-xl mt-14 lg:mt-[10.5rem] mb-10">
-                    <div class="lg:overflow-hidden">
-                      <h2
-                        class="font-bold text-black pb-6 lg:pb-[2.375rem] lg:pt-14 sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                        <span>crafting connections, inspiring creativity.</span></h2>
-                    </div>
-                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">With an emphasis on
-                      simplicity and innovation, Likehoop brings an engaging way for users to express themselves and
-                      engage with content, backed by a suite of creative tools that enhance every post.</p>
-                  </div>
-                  <div class="flex lg:flex-row flex-col gap-y-10 lg:gap-9 mt-8 lg:mt-24">
-                    <div class="lg:col-span-3">
-                      <img
-                        src="https://images.ctfassets.net/mi665aivb0at/53zi2zKmdSRGZm7JfCHqH1/4ab801f5f99eb14c5a4acdfe990b5e5a/screen4.webp"
-                        class="img1" alt="Profile Photo" />
-                    </div>
-                    <div class="lg:col-span-3 lg:col-span-3">
-                      <img
-                        src="https://images.ctfassets.net/mi665aivb0at/6jZDuMekBB0zPTwyM8PfCh/1b0abe73281601fbc52bc597612a2236/screen5.webp"
-                        class="img2" alt="Post" />
-                    </div>
-                    <div class="lg:col-span-3">
-                      <img
-                        src="https://images.ctfassets.net/mi665aivb0at/51GPoQ7GLAC9u6JNiDgHLH/f53f69c4b36bd58e18b3ad960acf441a/screen6.webp"
-                        class="img3" alt="Photo" />
-                    </div>
-                  </div>
-                </div>
-              </section> -->
-
-              <!-- <section class="projectChallenge-sec">
-                <div class="px-6 lg:px-8 max-w-7xl mx-auto mt-14 md:mt-24 lg:mt-[10.5rem]">
-                  <div class="lg:max-w-4xl">
-                    <div class="lg:overflow-hidden">
-                      <h2
-                        class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                        <span>a new era of social connectivity.</span>
-                      </h2>
-                    </div>
-                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Cubix has skillfully
-                      developed Likehoop to be more than just a social media app—it&#x27;s a community where users can
-                      freely express their creativity and passions. Through innovative features like Hoops for
-                      discovering trends, customizable profiles with music, and one-tap media sharing, Likehoop stands
-                      as an app for creative freedom and social interaction. <br />
-                      <br />This success is a testament to Cubix&#x27;s expertise in crafting digital solutions that
-                      resonate with users&#x27; desires for a more engaging, personalized social media experience. By
-                      focusing on intuitive design and user empowerment, Cubix has ensured that Likehoop is not only a
-                      platform for sharing but also a space where creativity is celebrated, making it an essential app
-                      for anyone looking to enhance their social media presence.
-                    </p>
-                  </div>
-                </div>
-                <img
-                  src="https://images.ctfassets.net/mi665aivb0at/1bKpJPNrsubZPDaUnX40Rq/81175d0c6af822c95f431fe430d7e65f/likehoop6thFold.webp"
-                  class="w-full mt-8 lg:mt-24" alt="social connectivity" />
-              </section> -->
-
-              <!-- <section class="projectResult-sec">
-                <div class="px-6 lg:px-8 max-w-7xl mx-auto mt-14 lg:mt-[10.5rem]">
-                  <div class="lg:overflow-hidden">
-                    <h2
-                      class="font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                      <span>project results.</span>
-                    </h2>
-                  </div>
-                  <div class="grid grid-cols-12 mt-2 lg:mt-6 gap-y-4 lg:gap-y-7">
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Achieved 10,000
-                            downloads in the first three months.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">User content
-                            creation increased by 40% month-over-month.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Significant user
-                            engagement with the Hoops feature.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Positive user
-                            feedback on profile customization options.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">High retention
-                            rate with daily active app users.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Increased social
-                            sharing and community building.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Expanded user
-                            base through organic and viral growth.</p>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
-                      <ul>
-                        <li>
-                          <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Recognized for
-                            innovative social media app design.</p>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </section> -->
-
-
               <div class="undefined bg-dark-theme md:h-[370px] lg:h-[600px] relative bg-cover"
                                 style="background-image:url(undefined.html)">
                                 <div
@@ -614,7 +405,7 @@ include 'includes/header_script.php';
                                                         class="!normal-case">iPhone</span> solutions.</span></h2>
                                         </div>
                                         <button
-                                            class="header-module--buttonChange--18e23 bg-white text-black items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
+                                            class="open-modal header-module--buttonChange--18e23 bg-white text-black items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
                                                 class="pb-[3px] md:pb-1.5">Request Consultation</span><span
                                                 class="pb-[3px] md:pb-1.5">Request Consultation</span></button>
                                     </div>
@@ -627,21 +418,7 @@ include 'includes/header_script.php';
             </main>
             <section class="recent-blogs overflow-x-hidden sm:overflow-x-auto" id="recent-blogs">
                 <div class="mx-auto max-w-7xl px-6 lg:px-8">
-                  <!-- <div
-                    class="block lg:flex lg:justify-between items-center lg:mb-4 lg:pb-4 lg:pt-[10.5rem] md:pt-24 pt-14">
-                    <div class="2xl:max-w-4xl lg:max-w-3xl">
-                      <div class="lg:overflow-hidden">
-                        <h2
-                          class="font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                          <span>our blogs.</span></h2>
-                      </div>
-                    </div><a
-                      class=" mt-6 text-black text-md lg:text-xl inline-flex items-center gap-4 group transition-all duration-300 ease-in-out hover:font-semibold"
-                      href="blog/index.html">View All<div
-                        class="transform group-hover:translate-x-2 transition-all duration-300 ease-in-out">
-                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAyNSAxMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIxLjMyNzQgNy44MDIyMkgyMC43NzY0QzE0LjQ3ODggNy44MDIyMiA4LjE4MTEzIDcuODAyMjIgMS44ODM0OSA3LjgwMjIyQzEuNzA4MjIgNy44MDc1MSAxLjUzMjgxIDcuNzk5NDkgMS4zNTg2OSA3Ljc3ODJDMS4xNDE5MSA3Ljc0MTc3IDAuOTQ0NzQzIDcuNjI2ODQgMC44MDI0NTMgNy40NTM5NkMwLjY2MDE2MyA3LjI4MTA3IDAuNTgyMDMxIDcuMDYxNTIgMC41ODIwMzEgNi44MzQ1NkMwLjU4MjAzMSA2LjYwNzYxIDAuNjYwMTYzIDYuMzg4MDUgMC44MDI0NTMgNi4yMTUxN0MwLjk0NDc0MyA2LjA0MjI5IDEuMTQxOTEgNS45MjczNiAxLjM1ODY5IDUuODkwOTNDMS41MzI3OCA1Ljg2OTI2IDEuNzA4MjIgNS44NjEyMyAxLjg4MzQ5IDUuODY2OTFIMjEuMjQzNUMyMS4yNjc1IDUuODI1MDcgMjEuMjkxNSA1Ljc4MzI0IDIxLjMxODUgNS43NDIxOEMyMS4xNjg1IDUuNjEzNTcgMjEuMDA4OCA1LjQ5NjU4IDIwLjg2ODYgNS4zNTQ4QzE5Ljk0NSA0LjQxMTE3IDE5LjAyNDggMy40NjM5MSAxOC4xMDgyIDIuNTEzMDVDMTcuOTU2IDIuMzY1NjIgMTcuODU0NyAyLjE3MDc3IDE3LjgxOTggMS45NTgyN0MxNy43ODQ4IDEuNzQ1NzYgMTcuODE4MiAxLjUyNzI5IDE3LjkxNDcgMS4zMzYyMUMxOC4wMDY3IDEuMTUwMzYgMTguMTU2OSAxLjAwMjI2IDE4LjM0MDkgMC45MTYxMzNDMTguNTI0OSAwLjgzMDAwMyAxOC43MzE4IDAuODEwOTQyIDE4LjkyNzYgMC44NjIwNjhDMTkuMTE3OCAwLjkxNDkzMyAxOS4yOTE5IDEuMDE2NzYgMTkuNDMzNyAxLjE1ODAyQzIxLjA0NTYgMi43OTczOCAyMi42NTEgNC40NDI5MyAyNC4yNDk5IDYuMDk0NjlDMjQuNjk1MiA2LjU1NDExIDI0LjY5OTcgNy4xMDE4NSAyNC4yNDk5IDcuNTY2N0MyMi42NDI1IDkuMjI4NzggMjEuMDI5MSAxMC44ODQ0IDE5LjQwOTcgMTIuNTMzNkMxOS4wMTMxIDEyLjkzOCAxOC40Mjk4IDEyLjkzMDIgMTguMDY5OSAxMi41NDY3QzE3LjcxMDEgMTIuMTYzMiAxNy43MTYxIDExLjU2NTEgMTguMTA1OSAxMS4xNTIyQzE5LjE0OTUgMTAuMDYyMSAyMC4xOTk5IDguOTc1OTYgMjEuMzI3NCA3LjgwMjIyWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+Cg==" class="block group-hover:hidden w-5 lg:w-full" alt="link arrow"/><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAyNSAxMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwLjg2MjYgNy44MjM3SDIwLjMxMTZDMTQuMDEzOSA3LjgyMzcgNy43MTYyOCA3LjgyMzcgMS40MTg2NSA3LjgyMzdDMS4yNDMzOCA3LjgyOSAxLjA2Nzk3IDcuODIwOTcgMC44OTM4NDMgNy43OTk2OUMwLjY3NzA2NSA3Ljc2MzI2IDAuNDc5OSA3LjY0ODMyIDAuMzM3NjEgNy40NzU0NEMwLjE5NTMyIDcuMzAyNTYgMC4xMTcxODggNy4wODMgMC4xMTcxODggNi44NTYwNUMwLjExNzE4OCA2LjYyOTA5IDAuMTk1MzIgNi40MDk1NCAwLjMzNzYxIDYuMjM2NjZDMC40Nzk5IDYuMDYzNzcgMC42NzcwNjUgNS45NDg4NCAwLjg5Mzg0MyA1LjkxMjQxQzEuMDY3OTQgNS44OTA3NCAxLjI0MzM4IDUuODgyNzEgMS40MTg2NSA1Ljg4ODM5SDIwLjc3ODZDMjAuODAyNiA1Ljg0NjU2IDIwLjgyNjYgNS44MDQ3MiAyMC44NTM2IDUuNzYzNjZDMjAuNzAzNyA1LjYzNTA1IDIwLjU0NCA1LjUxODA3IDIwLjQwMzggNS4zNzYyOUMxOS40ODAxIDQuNDMyNjUgMTguNTYgMy40ODU0IDE3LjY0MzMgMi41MzQ1M0MxNy40OTExIDIuMzg3MSAxNy4zODk5IDIuMTkyMjYgMTcuMzU0OSAxLjk3OTc1QzE3LjMyIDEuNzY3MjUgMTcuMzUzNCAxLjU0ODc3IDE3LjQ0OTkgMS4zNTc2OUMxNy41NDE4IDEuMTcxODUgMTcuNjkyMSAxLjAyMzc1IDE3Ljg3NjEgMC45Mzc2MTdDMTguMDYwMSAwLjg1MTQ4NyAxOC4yNjY5IDAuODMyNDI3IDE4LjQ2MjggMC44ODM1NTJDMTguNjUyOSAwLjkzNjQxNyAxOC44MjcgMS4wMzgyNCAxOC45Njg4IDEuMTc5NUMyMC41ODA3IDIuODE4ODYgMjIuMTg2MSA0LjQ2NDQyIDIzLjc4NSA2LjExNjE3QzI0LjIzMDMgNi41NzU1OSAyNC4yMzQ4IDcuMTIzMzMgMjMuNzg1IDcuNTg4MThDMjIuMTc3NiA5LjI1MDI2IDIwLjU2NDIgMTAuOTA1OSAxOC45NDQ4IDEyLjU1NTFDMTguNTQ4MiAxMi45NTk1IDE3Ljk2NDkgMTIuOTUxNyAxNy42MDUxIDEyLjU2ODJDMTcuMjQ1MiAxMi4xODQ3IDE3LjI1MTIgMTEuNTg2NiAxNy42NDExIDExLjE3MzdDMTguNjg0NyAxMC4wODM2IDE5LjczNSA4Ljk5NzQ0IDIwLjg2MjYgNy44MjM3WiIgZmlsbD0iIzJFRDA2RSIvPgo8L3N2Zz4K" class="hidden group-hover:block w-5 lg:w-full" alt="link arrow"/>
-                      </div></a>
-                  </div> -->
+              
                   <div class="mx-auto md:mt-0 md:mx-0 md:max-w-none">
                     <div class="md:flex pt-12"><a class="md:w-[41%]" rel="noreferrer"
                         href="blog/how-to-make-a-music-app-like-spotify/index.html">
@@ -682,7 +459,7 @@ include 'includes/header_script.php';
                       Let’s bring your <br class="min-[580px]:block hidden"/> vision to life.</h2>
                   </div>
                   <div class="lg:mt-4 mt-1 flex items-center justify-center gap-x-4">
-                    <button class="header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span class="pb-[3px] md:pb-1.5">Get Started</span><span class="pb-[3px] md:pb-1.5">Get Started</span></button>
+                    <button class="open-modal header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span class="pb-[3px] md:pb-1.5">Get Started</span><span class="pb-[3px] md:pb-1.5">Get Started</span></button>
                   </div>
                 </div>
               </section>

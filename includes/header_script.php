@@ -10466,6 +10466,15 @@ ul.design-list li {
 section.client-sec img{
     filter: hue-rotate(-95deg);
 }
+
+/* .home-module--buttonChange--28cf1:hover img {
+    filter: invert(1);
+}
+
+a.home-module--buttonChange--28cf1.mt-5.w-\[200px\].mr-2.customClasse.bg-gray-100.px-3\.5.py-5.border-transparent.rounded-3xl.sm\:rounded-\[2\.45rem\].font-normal.md\:text-lg.text-sm.hover\:bg-black.hover\:text-white.transition.duration-500.flex.flex-row.items-center.lg\:gap-5.gap-3.md\:hover\:shadow-lg.md\:hover\:shadow-slate-400 img.md\:h-\[35px\].md\:w-\[35px\].h-\[25px\].w-\[25px\].hoverClass:hover{
+  filter: invert(1) !important;
+} */
+
   </style>
   
   <noscript>

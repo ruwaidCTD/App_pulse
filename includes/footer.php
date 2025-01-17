@@ -158,53 +158,7 @@
                     </div>
                   </div>
                   <div class="border-t border-white/10 my-10 md:my-16 md:py-1 py-1">
-                    <!-- <p
-                      class=" font-medium leading-6 text-neutral-500 flex items-center mb-3 md:mb-4 text-xs lg:text-sm">
-                      <img src="./dist/images/big-bullets.svg" class="pe-3" alt="bulletpoint"/>Locations
-                    </p> -->
-                    <!-- <div class="grid md:grid-cols-4 sm:grid-cols-2 gap-x-16 gap-y-8">
-                      <div>
-                        <p
-                          class=" undefined text-white mb-1 font-medium text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">
-                          West Palm Beach</p>
-                        <p class="undefined text-white mb-3 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                        </p>
-                        <p
-                          class=" undefined text-neutral-500 font-medium leading-5 md:leading-6 text-xs xl:text-sm 2xl:text-base">
-                          560 Village Blvd., Suite 120 #3, <br/> West Palm Beach, FL-33409, <br/> United States</p>
-                      </div>
-                      <div>
-                        <p
-                          class=" undefined text-white mb-1 font-medium text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">
-                          Manchester</p>
-                        <p class="undefined text-white mb-3 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                        </p>
-                        <p
-                          class=" undefined text-neutral-500 font-medium leading-5 md:leading-6 text-xs xl:text-sm 2xl:text-base">
-                          73 Meadway, Bramhall<br/> Stockport, Manchester - SK7 1LX, <br/>United Kingdom</p>
-                      </div>
-                      <div>
-                        <p
-                          class=" undefined text-white mb-1 font-medium text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">
-                          Dubai</p>
-                        <p class="undefined text-white mb-3 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                        </p>
-                        <p
-                          class=" undefined text-neutral-500 font-medium leading-5 md:leading-6 text-xs xl:text-sm 2xl:text-base">
-                          Building 11, Level 7, Bay Square, <br/> Business Bay, Dubai - 23304, <br/> United Arab
-                          Emirates</p>
-                      </div>
-                      <div>
-                        <p
-                          class=" undefined text-white mb-1 font-medium text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">
-                          Karachi</p>
-                        <p class="undefined text-white mb-3 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                        </p>
-                        <p
-                          class=" undefined text-neutral-500 font-medium leading-5 md:leading-6 text-xs xl:text-sm 2xl:text-base">
-                          54C, Kashmir Road, Block 2,<br/> PECHS, Karachi, Sindh - 75400,<br/> Pakistan</p>
-                      </div>
-                    </div> -->
+              
                   </div>
                   <div class="flex items-end justify-between">
                     <div>
@@ -212,8 +166,8 @@
                         <img src="./dist/images/big-bullets.svg" class="pe-3" alt="bulletpoint"/>Contact
                       </p>
                       <ul class="mt-4 space-y-1">
-                        <li><a href="tel:866-978-2220"
-                            class="text-white font-medium menu_links text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">866-978-2220</a>
+                        <li><a href="tel:2012552351"
+                            class="text-white font-medium menu_links text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">2012552351</a>
                         </li>
                         <li>
     <a href="mailto:info@apppulse.com"
@@ -279,3 +233,24 @@
                   </div>
                 </div>
               </footer>
+
+
+
+              <div class="modal-overlay" id="modal">
+    <div class="modal-box">
+
+    <div class="px-4 sm:px-6 pb-8 overflow-x-hidden">
+    <div class="phone-text">
+    <a href="tel:2012552351" class="text-white text-sm 2xl:text-base font-semibold flex items-center menu_links phone-link">
+                    <img src="./dist/images/phone.svg"
+          width="15" height="15" class="invert-0 me-2" alt="Phone" />2012552351</a>
+          <img src="./dist/images/close.svg"
+          width="58" height="55" class="close-modal" alt="close-modal"/>
+          <!-- <span class="close-btns" >&times;</span> -->
+    </div>
+    <div class="relative top-6 sm:left-[91%] left-[85%] rounded-full">
+     </div><div class="lg:overflow-hidden"><h2 class="font-bold 2xl:mt-4 xl:mt-8 mb-5 sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span class="text-white"><span>got a </span><span class="text-theme"><span>project?</span></span><span> </span></span></h2></div><p class=" text-[#7D8387] font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Share the details of your project – like scope, timeframes, or business challenges. Our team will thoroughly review the materials and respond to you promptly.</p><div class="my-8"><p class=" text-[#7D8387] font-medium text-xs xl:text-sm 2xl:text-base">I'm interested in</p><div class="mt-2"><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Custom Software</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Mobile App</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">UX/UI</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Web Development</button></div></div><div class="space-y-4 pb-5"><div><input type="text" name="name" id="name" class="block w-full rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Name" autocomplete="off" value=""></div><div class="flex justify-between sm:flex-row flex-col sm:space-y-0 space-y-4"><div class="flex flex-col sm:w-[49%] w-full"><input type="email" name="email" id="email" class="block rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Email" autocomplete="off" value=""></div><div class="flex flex-col sm:w-[49%] w-full"><input type="number" name="number" id="number" class="block rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Phone" value=""></div></div><div><textarea id="description" name="description" rows="1" class="block w-full rounded-[23px]  bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 py-2 px-5 resize-none " placeholder="Message"></textarea></div><button id="button_id57656" type="submit" class="header-module--buttonChange--18e23 w-full items-center px-6 md:px-11 h-[40px] border-transparent rounded-full text-sm font-semibold text-black bg-[#EEB736]"><span class="pb-[3px]"> Send Message</span><span class="pb-[3px]"> Send Message</span></button></div><div class="inline-flex items-start mb-5"><p class="text-[#7D8387] select-none text-sm tracking-wider cursor-text">We'll keep your information in our CRM to respond to your request. For more details, consult our<a class="inline-flex text-white hover:text-[#eeb736] cursor-pointer ps-1.5" href="/privacy-policy/">privacy policy.</a></p></div></div>
+  
+      
+    </div>
+  </div>

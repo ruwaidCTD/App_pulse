@@ -265,7 +265,8 @@ include 'includes/header_script.php';
                                             </div>
                                             <div class="flex mt-12">
                                                 <button
-                                                    class="header-module--buttonChange--18e23 bg-black text-white items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
+                                                    class="open-modal header-module--buttonChange--18e23 bg-black text-white open-modal items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm">
+                                                    <span
                                                         class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span><span
                                                         class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span></button>
                                             </div>
@@ -615,8 +616,9 @@ include 'includes/header_script.php';
                                                 <span>transform your business with our valuable <span
                                                         class="!normal-case">iPhone</span> solutions.</span></h2>
                                         </div>
+           
                                         <button
-                                            class="header-module--buttonChange--18e23 bg-white text-black items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
+                                            class="open-modal header-module--buttonChange--18e23 bg-white text-black open-modal  items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
                                                 class="pb-[3px] md:pb-1.5">Request Consultation</span><span
                                                 class="pb-[3px] md:pb-1.5">Request Consultation</span></button>
                                     </div>
@@ -684,7 +686,7 @@ include 'includes/header_script.php';
                       Let’s bring your <br class="min-[580px]:block hidden"/> vision to life.</h2>
                   </div>
                   <div class="lg:mt-4 mt-1 flex items-center justify-center gap-x-4">
-                    <button class="header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span class="pb-[3px] md:pb-1.5">Get Started</span><span class="pb-[3px] md:pb-1.5">Get Started</span></button>
+                    <button class="open-modal header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span class="pb-[3px] md:pb-1.5">Get Started</span><span class="pb-[3px] md:pb-1.5">Get Started</span></button>
                   </div>
                 </div>
               </section>
