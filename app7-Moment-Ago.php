@@ -394,6 +394,8 @@ include 'includes/header_script.php';
                                     </div>
                                 </div>
                             </section>
+                            <?php include 'main_sections/portfolio.php'?>
+                            <?php include 'main_sections/team-btn.php'?>
               <div class="undefined bg-dark-theme md:h-[370px] lg:h-[600px] relative bg-cover"
                                 style="background-image:url(undefined.html)">
                                 <div
