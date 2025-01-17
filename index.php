@@ -146,7 +146,7 @@ include 'includes/header_script.php';
                     <div class="undefined mx-auto max-w-7xl px-6 lg:px-8" id="project-stats">
                       <div class="grid lg:grid-cols-3 grid-cols-1 gap-x-8 gap-y-8">
                         <div class="flex flex-col gap-y-2 w-max"><a
-                            class="cursor-pointer group inline-flex flex-col gap-y-2" href="work/index.html">
+                            class="cursor-pointer group inline-flex flex-col gap-y-2" >
                             <div class="inline-flex">
                               <span class=" count group-hover:text-[#EEB736] font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] xl:!leading-[55px] 2xl:!leading-[65px]">900</span>
                               <div
@@ -158,7 +158,7 @@ include 'includes/header_script.php';
                               Completed Projects</p>
                           </a></div>
                         <div class="flex flex-col gap-y-2 w-max"><a
-                            class="cursor-pointer group inline-flex flex-col gap-y-2" href="about/index.html">
+                            class="cursor-pointer group inline-flex flex-col gap-y-2" >
                             <div class="inline-flex">
                               <span class=" count group-hover:text-[#EEB736] font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] xl:!leading-[55px] 2xl:!leading-[65px]">1000</span>
                               <div
@@ -170,7 +170,7 @@ include 'includes/header_script.php';
                               Talented App Pulseians</p>
                           </a></div>
                         <div class="flex flex-col gap-y-2 w-max"><a
-                            class="cursor-pointer group inline-flex flex-col gap-y-2" href="about/clients/index.html">
+                            class="cursor-pointer group inline-flex flex-col gap-y-2" >
                             <div class="inline-flex">
                                 <span class=" count group-hover:text-[#EEB736] font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] xl:!leading-[55px] 2xl:!leading-[65px]">1500</span>
                               

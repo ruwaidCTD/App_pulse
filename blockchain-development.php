@@ -479,55 +479,152 @@
                   </div>
                 </div>
               </section>
-              <!-- <section class="textContent-sec">
-                <div class="undefined px-6 lg:px-8 max-w-7xl mx-auto pt-14 md:pt-24 lg:pt-[10.5rem]">
-                  <div class="2xl:max-w-4xl lg:max-w-3xl">
-                    <div class="lg:overflow-hidden">
-                      <h2
-                        class="undefined font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-                        <span class="text-theme"><span>blockchain development experts</span></span><span> you can count on.</span>
-                      </h2>
-                    </div>
-                    <p
-                      class="undefined text-black lg:pe-[5rem] pt-6 lg:pt-[2.375rem] text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                      With 15+ years in the industry, App Pulse helped shape the evolving Blockchain landscape.</p>
-                  </div>
-                </div>
-              </section> -->
-              <!-- <section class="service-provided">
-                <div class="px-6 lg:px-8 pt-12 lg:pt-20 max-w-7xl mx-auto">
-                  <div class="lg:grid lg:grid-cols-12 lg:gap-8 2xl:h-[550px]">
-                    <div class="lg:col-span-5"><img class="w-full" src="static/accordionGame-5d65aa40a32bee873c1784335235c736.webp" alt="App Pulse Asset"/>
-                    </div>
-                    <div class="lg:col-span-7">
-                      <div class="space-y-6 lg:space-y-10 pt-6 lg:pt-0 undefined">
-                        <div class="pt-2" data-headlessui-state="open">
-                          <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R4ph9:" type="button" aria-expanded="true" data-headlessui-state="open"><h3 class=" text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Expert Development Team</h3><span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] rotate-180 text-theme mt-[15px]">-</span></span></button>
-                          <div class="overflow-hidden">
-                            <dd class="mt-2 pr-12" id="headlessui-disclosure-panel-:R8ph9:"
-                              data-headlessui-state="open">
-                              <p class=" text-black mt-5 pb-[20px] text-sm lg:text-md xl:text-lg 2xl:text-xl">Our
-                                diverse team of 350+ passionate artists, designers, and developers has spearheaded
-                                projects both small and large. From custom blockchain solutions to platform based games,
-                                App Pulse has all the expertise to bring your creative vision to life.</p>
-                              <div class="flex gap-3 flex-wrap"></div>
-                            </dd>
-                          </div>
-                        </div>
-                        <div class="pt-2" data-headlessui-state="">
-                          <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R59h9:" type="button" aria-expanded="false" data-headlessui-state=""><h3 class=" undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Innovative Technical Prowess</h3><span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span></button>
-                        </div>
-                        <div class="pt-2" data-headlessui-state="">
-                          <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R5ph9:" type="button" aria-expanded="false" data-headlessui-state=""><h3 class=" undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Agile-driven Project Management</h3><span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span></button>
-                        </div>
-                        <div class="pt-2" data-headlessui-state="">
-                          <button class="flex w-full justify-between text-left" id="headlessui-disclosure-button-:R69h9:" type="button" aria-expanded="false" data-headlessui-state=""><h3 class=" undefined font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Scalable Resource Allocation</h3><span class="ml-6 flex h-7 items-center"><span class="transform transition-transform duration-300 ease-in-out text-5xl font-normal d-block w-[28px] mt-[5px]">+</span></span></button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section> -->
+              <section class="textContent-sec">
+                                    <div class="undefined px-6 lg:px-8 max-w-7xl mx-auto pt-14 md:pt-24 lg:pt-[10.5rem]">
+                                        <div class="2xl:max-w-4xl lg:max-w-3xl">
+                                            <div class="lg:overflow-hidden">
+                                                <h2 class="undefined font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                                    <span class="text-theme"><rts>blockchain development experts</rts></span><span> you can count on.</span>
+                                                </h2>
+                                            </div>
+                                            <p class="undefined text-black lg:pe-[5rem] pt-6 lg:pt-[2.375rem] text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                            With 15+ years in the industry, Cubix helped shape the evolving Blockchain landscape.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section class="service-provided">
+                                    <div class="px-6 lg:px-8 pt-12 lg:pt-20 max-w-7xl mx-auto">
+                                        <div class="lg:grid lg:grid-cols-12 lg:gap-8 2xl:h-[550px]">
+                                            <div class="lg:col-span-5">
+                                                <img class="w-full" src="static/accordionGame-5d65aa40a32bee873c1784335235c736.webp" alt="Game Services" />
+                                            </div>
+                                            <div class="lg:col-span-7">
+                                                <!--  -->
+                                            <div class="px-6 lg:px-8 max-w-7xl mx-auto  ">
+                                           
+                                                <div class="lg:grid">
+                                                    <!-- Image Section -->
+                                                    <!-- <div class="lg:col-span-5">
+                                                            <img id="dynamic-image" class="w-full fade-in" src="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" alt="Mobile Development Services" />
+                                                        </div> -->
+                                                    <!-- Content Section -->
+                                                    <div class="lg:col-span-7 lg:pt-0 pt-5">
+                                                        <!-- <div class="space-y-6 lg:space-y-10"> -->
+                                                            <!-- Native Apps -->
+                                                            <div class="accordion-item">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left" data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Expert Development Team</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    Our diverse team of 350+ passionate artists, designers, and developers has spearheaded projects both small and large. From custom blockchain solutions to platform based games, Cubix has all the expertise to bring your creative vision to life.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Innovative Technical Prowess</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    Cutting-edge tech is our tool of the trade for delivering exceptional blockchain programming. We leverage the latest technologies and platforms to create decentralized experiences that push boundaries and raise industry standards.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Agile-driven Project Management</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    Every blockchain project is in expert hands, guided seamlessly from concept to launch and beyond. Robust support from an elite blockchain development company ensures your project achieves its full potential.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="accordion-item ">
+                                                                <button class="accordion-toggle flex w-full justify-between text-left pt-5 " data-image="static/faqAcc1-7ac53832a237a204baaa9d20a6c7674f.webp" type="button">
+                                                                    <h3 class="text-theme font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px] ">Scalable Resource Allocation</h3>
+                                                                    <span class="ml-6 flex h-7 items-center">
+                                                                        <span class="transform transition-transform duration-[200ms] ease-in-out text-5xl font-normal text-theme">+</span>
+                                                                    </span>
+                                                                </button>
+                                                                <div class="accordion-content hidden ">
+                                                                    <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                    No matter the scale, our flexible staffing model delivers efficiently. As a go-to partner for blockchain development, having developed over 150+ projects, Cubix is well-equipped to power your dream from start to storefront.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        <!-- </div> -->
+                                                    </div>
+                                                </div>
+                                                <script>
+   
+
+          document.addEventListener("DOMContentLoaded", () => {
+              const accordionToggles = document.querySelectorAll(".accordion-toggle");
+              const accordionContents = document.querySelectorAll(".accordion-content");
+              const dynamicImage = document.getElementById("dynamic-image");
+
+              accordionToggles.forEach((button, index) => {
+                  const content = button.nextElementSibling;
+
+                  // Open the first accordion by default
+                  if (index === 0) {
+                      content.classList.remove("hidden"); // Show the first content
+                      button.querySelector("span span").innerText = "-"; // Update indicator
+                      if (dynamicImage) {
+                          const defaultImageSrc = button.getAttribute("data-image");
+                          dynamicImage.src = defaultImageSrc;
+                      }
+                  } else {
+                      content.classList.add("hidden"); // Ensure all others are hidden
+                  }
+
+                  // Event listener for toggling accordion
+                  button.addEventListener("click", () => {
+                      // Close all accordions
+                      accordionContents.forEach((item) => {
+                          item.classList.add("hidden");
+                          item.previousElementSibling.querySelector("span span").innerText = "+";
+                      });
+
+                      // Open the clicked accordion
+                      if (content.classList.contains("hidden")) {
+                          content.classList.remove("hidden"); // Show the content
+                          button.querySelector("span span").innerText = "-"; // Update indicator
+                      }
+
+                      // Update the image
+                      const imageSrc = button.getAttribute("data-image");
+                      if (dynamicImage) {
+                          dynamicImage.src = imageSrc;
+                      }
+                  });
+              });
+          });
+      </script>
+
+
+
+
+                                                <!--  -->
+                                            </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                                           <!--  -->
               <section class="positionCards-sec undefined" id="industries">
                 <div class="undefined px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto">
                   <div class="2xl:max-w-4xl lg:max-w-3xl lg:pb-[88px] pb-12">
