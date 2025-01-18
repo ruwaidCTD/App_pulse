@@ -135,7 +135,7 @@
                                 class="text-sm md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl font-medium text-white menu_links leading-7 md:leading-12">
                                 <span>Why App pulse</span></p>
                             </a></li>
-                          <li><a class="hover:text-theme menu_links" href="portfolio.php">
+                          <li><a class="hover:text-theme menu_links" href="#portfolio-section">
                               <p
                                 class="text-sm md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl font-medium text-white menu_links leading-7 md:leading-12">
                                 <span>Portfolio
@@ -233,24 +233,3 @@
                   </div>
                 </div>
               </footer>
-
-
-
-              <div class="modal-overlay" id="modal">
-    <div class="modal-box">
-
-    <div class="px-4 sm:px-6 pb-8 overflow-x-hidden">
-    <div class="phone-text">
-    <a href="tel:2012552351" class="text-white text-sm 2xl:text-base font-semibold flex items-center menu_links phone-link">
-                    <img src="./dist/images/phone.svg"
-          width="15" height="15" class="invert-0 me-2" alt="Phone" />2012552351</a>
-          <img src="./dist/images/close.svg"
-          width="58" height="55" class="close-modal" alt="close-modal"/>
-          <!-- <span class="close-btns" >&times;</span> -->
-    </div>
-    <div class="relative top-6 sm:left-[91%] left-[85%] rounded-full">
-     </div><div class="lg:overflow-hidden"><h2 class="font-bold 2xl:mt-4 xl:mt-8 mb-5 sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span class="text-white"><span>got a </span><span class="text-theme"><span>project?</span></span><span> </span></span></h2></div><p class=" text-[#7D8387] font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Share the details of your project – like scope, timeframes, or business challenges. Our team will thoroughly review the materials and respond to you promptly.</p><div class="my-8"><p class=" text-[#7D8387] font-medium text-xs xl:text-sm 2xl:text-base">I'm interested in</p><div class="mt-2"><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Custom Software</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Mobile App</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">UX/UI</button><button type="button" class="bg-transparent text-white   py-2 px-3.5 my-2 mr-2 text-sm rounded-full border border-white font-semibold">Web Development</button></div></div><div class="space-y-4 pb-5"><div><input type="text" name="name" id="name" class="block w-full rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Name" autocomplete="off" value=""></div><div class="flex justify-between sm:flex-row flex-col sm:space-y-0 space-y-4"><div class="flex flex-col sm:w-[49%] w-full"><input type="email" name="email" id="email" class="block rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Email" autocomplete="off" value=""></div><div class="flex flex-col sm:w-[49%] w-full"><input type="number" name="number" id="number" class="block rounded-[23px] bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 px-5 py-2 " placeholder="Phone" value=""></div></div><div><textarea id="description" name="description" rows="1" class="block w-full rounded-[23px]  bg-[#26292D] font-semibold focus:outline-0 text-white focus:text-black placeholder:text-[#848484] placeholder:font-semibold focus:bg-white sm:text-sm sm:leading-6 py-2 px-5 resize-none " placeholder="Message"></textarea></div><button id="button_id57656" type="submit" class="header-module--buttonChange--18e23 w-full items-center px-6 md:px-11 h-[40px] border-transparent rounded-full text-sm font-semibold text-black bg-[#EEB736]"><span class="pb-[3px]"> Send Message</span><span class="pb-[3px]"> Send Message</span></button></div><div class="inline-flex items-start mb-5"><p class="text-[#7D8387] select-none text-sm tracking-wider cursor-text">We'll keep your information in our CRM to respond to your request. For more details, consult our<a class="inline-flex text-white hover:text-[#eeb736] cursor-pointer ps-1.5" href="/privacy-policy/">privacy policy.</a></p></div></div>
-  
-      
-    </div>
-  </div>
