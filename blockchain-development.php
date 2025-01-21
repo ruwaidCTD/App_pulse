@@ -489,7 +489,7 @@
                                                 </h2>
                                             </div>
                                             <p class="undefined text-black lg:pe-[5rem] pt-6 lg:pt-[2.375rem] text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
-                                            With 15+ years in the industry, Cubix helped shape the evolving Blockchain landscape.
+                                            With 15+ years in the industry, App pulse helped shape the evolving Blockchain landscape.
                                             </p>
                                         </div>
                                     </div>
@@ -522,7 +522,7 @@
                                                                 </button>
                                                                 <div class="accordion-content hidden">
                                                                     <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
-                                                                    Our diverse team of 350+ passionate artists, designers, and developers has spearheaded projects both small and large. From custom blockchain solutions to platform based games, Cubix has all the expertise to bring your creative vision to life.
+                                                                    Our diverse team of 350+ passionate artists, designers, and developers has spearheaded projects both small and large. From custom blockchain solutions to platform based games, App pulse has all the expertise to bring your creative vision to life.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -561,7 +561,7 @@
                                                                 </button>
                                                                 <div class="accordion-content hidden ">
                                                                     <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
-                                                                    No matter the scale, our flexible staffing model delivers efficiently. As a go-to partner for blockchain development, having developed over 150+ projects, Cubix is well-equipped to power your dream from start to storefront.
+                                                                    No matter the scale, our flexible staffing model delivers efficiently. As a go-to partner for blockchain development, having developed over 150+ projects, App pulse is well-equipped to power your dream from start to storefront.
                                                                     </p>
                                                                 </div>
                                                             </div>

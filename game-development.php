@@ -918,7 +918,7 @@
                                                                 </button>
                                                                 <div class="accordion-content hidden">
                                                                     <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
-                                                                        Our diverse team of 350+ passionate artists, designers, and developers has delivered games of all scales. From casual mobile games to high-definition console titles, Cubix has all the expertise required to bring
+                                                                        Our diverse team of 350+ passionate artists, designers, and developers has delivered games of all scales. From casual mobile games to high-definition console titles, App pulse has all the expertise required to bring
                                                                         your creative vision to life.
                                                                     </p>
                                                                 </div>
@@ -958,7 +958,7 @@
                                                                 </button>
                                                                 <div class="accordion-content hidden ">
                                                                     <p class="text-black mt-3 mb-5 text-sm lg:text-md xl:text-lg 2xl:text-xl">
-                                                                    No matter the scale, our flexible staffing model immensely benefits your business. As a go-to partner for game development outsourcing with over 150+ games under our belt, Cubix is well-equipped to power your project from start to finish.
+                                                                    No matter the scale, our flexible staffing model immensely benefits your business. As a go-to partner for game development outsourcing with over 150+ games under our belt, App pulse is well-equipped to power your project from start to finish.
                                                                     </p>
                                                                 </div>
                                                             </div>

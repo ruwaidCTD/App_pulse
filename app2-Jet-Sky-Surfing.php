@@ -462,7 +462,7 @@ include 'includes/header_script.php';
                     <div class=" undefined flex lg:gap-5 gap-3 items-start">
                       <img
                         src="./dist/images/check-white.svg"
-                        class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                        class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Trend Discovery
@@ -471,7 +471,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Profile
@@ -480,7 +480,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Instant Media
@@ -489,7 +489,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" undefined flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check-white.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="text-white text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Content Filters:
@@ -549,14 +549,14 @@ include 'includes/header_script.php';
                         <span>a new era of social connectivity.</span>
                       </h2>
                     </div>
-                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Cubix has skillfully
+                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">App pulse has skillfully
                       developed Likehoop to be more than just a social media app—it&#x27;s a community where users can
                       freely express their creativity and passions. Through innovative features like Hoops for
                       discovering trends, customizable profiles with music, and one-tap media sharing, Likehoop stands
                       as an app for creative freedom and social interaction. <br />
-                      <br />This success is a testament to Cubix&#x27;s expertise in crafting digital solutions that
+                      <br />This success is a testament to App pulse&#x27;s expertise in crafting digital solutions that
                       resonate with users&#x27; desires for a more engaging, personalized social media experience. By
-                      focusing on intuitive design and user empowerment, Cubix has ensured that Likehoop is not only a
+                      focusing on intuitive design and user empowerment, App pulse has ensured that Likehoop is not only a
                       platform for sharing but also a space where creativity is celebrated, making it an essential app
                       for anyone looking to enhance their social media presence.
                     </p>
@@ -577,7 +577,7 @@ include 'includes/header_script.php';
                   </div>
                   <div class="grid grid-cols-12 mt-2 lg:mt-6 gap-y-4 lg:gap-y-7">
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Achieved 10,000
@@ -586,7 +586,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">User content
@@ -595,7 +595,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Significant user
@@ -604,7 +604,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Positive user
@@ -613,7 +613,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">High retention
@@ -622,7 +622,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Increased social
@@ -631,7 +631,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Expanded user
@@ -640,7 +640,7 @@ include 'includes/header_script.php';
                       </ul>
                     </div>
                     <div class=" text-black col-span-12 md:col-span-6 lg:pr-[55px] flex lg:gap-5 gap-3 items-start">
-                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="Cubix Asset" />
+                      <img src="./dist/images/check.svg"class="h-[20px] w-[20px] lg:h-[27px] lg:w-[30px] 2xl:h-[30px] 2xl:w-[33px]" alt="App pulse Asset" />
                       <ul>
                         <li>
                           <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Recognized for
