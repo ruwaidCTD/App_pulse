@@ -13,9 +13,10 @@ include 'includes/header_script.php';
   <div id="___gatsby">
     <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
       <div id="smooth-wrapper">
+      <?php include 'includes/respon-navi.php'?>
        <?php include 'includes/navbar.php'?>
                 <div id="smooth-content">
-                    <div class=" relative z-50 ">
+                    <div class=" relative z-40 ">
                         <main>
                             <section class="HalfTextContent-sec">
                                 <div class="px-6 lg:px-8 pt-40 lg:pt-[10.5rem] max-w-7xl mx-auto">
@@ -180,135 +181,9 @@ include 'includes/header_script.php';
                                     </div>
                                 </div>
                             </section>
+                            <?php include 'main_sections/portfolio.php'?>
                             <?php include 'main_sections/tech-we-use-tab.php'?>
-                            <!-- <section class="bg-dark-theme overflow-x-hidden sm:overflow-x-auto lg:mt-[10.5rem] md:mt-24 mt-14 lg:py-[10.5rem] md:py-24 py-14">
-                                <div class="px-6 lg:px-8 max-w-7xl mx-auto">
-                                    <div class="max-w-3xl lg:mb-20 mb-12">
-                                        <div class="lg:overflow-hidden">
-                                            <h2 class="font-bold text-white sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span>serving a variety of </span><span class="text-theme"><span>industry.</span></span><span></span></h2>
-                                        </div>
-                                        <p class="text-white lg:pt-[2.625rem] pt-6 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">App Pulse provides innovative web solutions for businesses across multiple sectors.</p>
-                                    </div>
-                                </div>
-                                <div class="paddingSLider">
-                                    <div class="splide">
-                                        <div class="splide__track">
-                                            <ul class="splide__list">
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Finance</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Improve efficiency and security.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Healthcare</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Enhance patient care and streamline processes.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Media</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Engage wider audiences with advanced solutions.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Telecom</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Innovative solutions for better customer management.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Logistics</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Optimize operations and reduce overheads.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Automotive</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Enhance customer loyalty and vehicle management.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Real Estate</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Simplify property management and sales.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Hospitality</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Improve guest experiences and satisfaction.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Education</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Revolutionize learning and student engagement.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Retail</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Enhance customer journeys and boost sales.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                                <li class="splide__slide"><a class="cursor-pointer">
-                                                        <article class="bg-gradient-to-r from-[#050505] to-[#201F21] p-6 lg:p-[30px] lg:mx-0 rounded-3xl lg:h-[235px] h-52 flex flex-col justify-between cursor-auto">
-                                                            <div>
-                                                                <h4 class=" font-bold text-white text-xl xl:text-2xl 2xl:text-3xl tracking-[0px]">Energy</h4>
-                                                            </div>
-                                                            <div>
-                                                                <p class=" !text-[#6F6F6F] text-sm lg:text-md xl:text-lg 2xl:text-xl">Improve operations and safety.</p>
-                                                            </div>
-                                                        </article>
-                                                    </a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section> -->
+                         
                          
                             <section class="case-studies overfow-hidden">
                                 <div class="bg-white" id="case-studies">

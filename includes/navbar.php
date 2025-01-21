@@ -196,7 +196,7 @@
       </button>
       <button class="megaMenu group">
       <a class="group text-sm 2xl:text-base font-extrabold leading-6 menu_links text-white portfolio-link"
-       href="#portfolio-section.php">Portfolio</a>
+       href="#portfolio-section">Portfolio</a>
       </button>
         <a class="group text-sm 2xl:text-base font-extrabold leading-6 menu_links text-white services_nav"
         href="why-apppulse.php">Why App pulse</a>

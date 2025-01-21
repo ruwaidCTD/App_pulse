@@ -1,65 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charSet="utf-8" />
-  <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <link rel="icon" type="image/x-icon" href="./dist/images/favicon.ico">
-  <title data-gatsby-head="true">MVP Development Services | App Pulse</title>
+    <meta charSet="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <link rel="icon" type="image/x-icon" href="./dist/images/favicon.ico">
+    <title data-gatsby-head="true">MVP Development Services | App Pulse</title>
 </head>
 <?php
 include 'includes/header_script.php';
 ?>
+
 <body>
-  <div id="___gatsby">
-    <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
-      <div id="smooth-wrapper">
-       <?php include 'includes/navbar.php'?>
+    <div id="___gatsby">
+        <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
+            <div id="smooth-wrapper">
+                <?php include 'includes/respon-navi.php'?>
+                <?php include 'includes/navbar.php'?>
                 <div id="smooth-content">
-                    <div class=" relative z-50 ">
+                    <div class=" relative z-40 ">
                         <main>
                             <section class="HalfTextContent-sec">
                                 <div class="px-6 lg:px-8 pt-40 lg:pt-[10.5rem] max-w-7xl mx-auto">
                                     <div class="lg:grid lg:grid-cols-12">
                                         <div class="lg:col-span-7">
                                             <div class="overflow-hidden">
-                                                <h1 class=" font-bold pb-6 lg:pb-[2.375rem] undefined text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">Professional MVP Development Services.</h1>
+                                                <h1
+                                                    class=" font-bold pb-6 lg:pb-[2.375rem] undefined text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                                    Professional MVP Development Services.</h1>
                                             </div>
-                                            <p class="  undefined text-black text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">At App Pulse, we help businesses turn their ideas into reality with our reliable MVP development services.</p>
+                                            <p
+                                                class="  undefined text-black text-md md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl">
+                                                At App Pulse, we help businesses turn their ideas into reality with our
+                                                reliable MVP development services.</p>
                                         </div>
-                                        <div class="!flex lg:mt-0 mt-6 hidden lg:col-span-5 justify-start lg:justify-end items-end"><img class="w-[170px] undefined" src="https://images.ctfassets.net/mi665aivb0at/60sZt7rdDix9XXXbAvDKzR/bf1333f0653a0686392b4d3487b6d47c/Top-Web-Developers.png" alt="Top Web Developers" /></div>
+                                        <div
+                                            class="!flex lg:mt-0 mt-6 hidden lg:col-span-5 justify-start lg:justify-end items-end">
+                                            <img class="w-[170px] undefined"
+                                                src="https://images.ctfassets.net/mi665aivb0at/60sZt7rdDix9XXXbAvDKzR/bf1333f0653a0686392b4d3487b6d47c/Top-Web-Developers.png"
+                                                alt="Top Web Developers" /></div>
                                     </div>
                                 </div>
-                            </section><img src="https://images.ctfassets.net/mi665aivb0at/4ffs5h5BesunTY6xRvjHTx/008492b4c2d00e29a5b76ff113ff65a2/MVP_Development_Services_.webp" alt="MVP Development" class="mt-8 lg:mt-24 w-full" />
+                            </section><img
+                                src="https://images.ctfassets.net/mi665aivb0at/4ffs5h5BesunTY6xRvjHTx/008492b4c2d00e29a5b76ff113ff65a2/MVP_Development_Services_.webp"
+                                alt="MVP Development" class="mt-8 lg:mt-24 w-full" />
                             <section class="gameDev-sec">
                                 <div class="px-6 lg:px-8 max-w-7xl mx-auto mt-14 md:mt-24 lg:mt-[10.5rem]">
                                     <div class="lg:overflow-hidden">
-                                        <h2 class="font-bold pb-2 md:pb-0 sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span>our <span class="!normal-case">MVP</span> development services.</span></h2>
+                                        <h2
+                                            class="font-bold pb-2 md:pb-0 sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                            <span>our <span class="!normal-case">MVP</span> development services.</span>
+                                        </h2>
                                     </div>
                                     <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl"></p>
-                                    <div class="mt-12 lg:mt-20 grid max-w-2xl grid-cols-1 lg:gap-14 gap-6 md:gap-y-16 text-base leading-7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+                                    <div
+                                        class="mt-12 lg:mt-20 grid max-w-2xl grid-cols-1 lg:gap-14 gap-6 md:gap-y-16 text-base leading-7 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">MVP Consultation </h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Define clear goals and core functionalities with our experts.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                MVP Consultation </h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Define clear goals and core functionalities with our experts.</p>
                                         </div>
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">MVP Development</h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Craft lean MVPs designed to evolve.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                MVP Development</h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Craft lean MVPs designed to evolve.</p>
                                         </div>
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Product Innovation</h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Upgrade and enhance your MVP into a full-fledged product.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                Product Innovation</h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Upgrade and enhance your MVP into a full-fledged product.</p>
                                         </div>
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Market Analysis</h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Use the latest tools to analyze market needs and perform SWOT reports.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                Market Analysis</h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Use the latest tools to analyze market needs and perform SWOT reports.
+                                            </p>
                                         </div>
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Vision to Prototype</h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Create a fully functioning prototype before full-scale development.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                Vision to Prototype</h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Create a fully functioning prototype before full-scale development.</p>
                                         </div>
                                         <div>
-                                            <h3 class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">MVP to Full-scale</h3>
-                                            <p class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Smoothly transition your MVP to a full-scale product.</p>
+                                            <h3
+                                                class=" font-bold pb-6 lg:pb-[2.125rem] text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                MVP to Full-scale</h3>
+                                            <p
+                                                class="undefined text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                Smoothly transition your MVP to a full-scale product.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -69,93 +112,179 @@ include 'includes/header_script.php';
                                     <div class="md:flex">
                                         <div class="w-full xl:w-[60%] lg:w-[55%] md:[50%] mr-[5%]">
                                             <div class="lg:overflow-hidden">
-                                                <h2 class=" pb-6 font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span>key benefits of our <span class="!normal-case">MVP</span> development services.</span></h2>
+                                                <h2
+                                                    class=" pb-6 font-bold pb-6 lg:pb-[2.375rem] sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                                    <span>key benefits of our <span class="!normal-case">MVP</span>
+                                                        development services.</span></h2>
                                             </div>
-                                            <p class=" pb-6 text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl"></p>
+                                            <p
+                                                class=" pb-6 text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                            </p>
                                             <div>
-                                                <div class="flex gap-4 items-center my-6"><img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]" alt="Bullet Point" />
+                                                <div class="flex gap-4 items-center my-6"><img
+                                                        src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                        alt="Bullet Point" />
                                                     <ul>
                                                         <li>
-                                                            <p class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Quick turnaround times to get your product to market faster.</p>
+                                                            <p
+                                                                class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                Quick turnaround times to get your product to market
+                                                                faster.</p>
                                                         </li>
                                                     </ul>
                                                 </div>
-                                                <div class="flex gap-4 items-center my-6"><img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]" alt="Bullet Point" />
+                                                <div class="flex gap-4 items-center my-6"><img
+                                                        src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                        alt="Bullet Point" />
                                                     <ul>
                                                         <li>
-                                                            <p class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Cost-effective solutions while delivering a high-quality product.</p>
+                                                            <p
+                                                                class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                Cost-effective solutions while delivering a high-quality
+                                                                product.</p>
                                                         </li>
                                                     </ul>
                                                 </div>
-                                                <div class="flex gap-4 items-center my-6"><img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]" alt="Bullet Point" />
+                                                <div class="flex gap-4 items-center my-6"><img
+                                                        src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                        alt="Bullet Point" />
                                                     <ul>
                                                         <li>
-                                                            <p class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Scalable products to help scale your business.</p>
+                                                            <p
+                                                                class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                Scalable products to help scale your business.</p>
                                                         </li>
                                                     </ul>
                                                 </div>
-                                                <div class="flex gap-4 items-center my-6"><img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]" alt="Bullet Point" />
+                                                <div class="flex gap-4 items-center my-6"><img
+                                                        src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                        alt="Bullet Point" />
                                                     <ul>
                                                         <li>
-                                                            <p class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">User-centric and design first approach.</p>
+                                                            <p
+                                                                class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                User-centric and design first approach.</p>
                                                         </li>
                                                     </ul>
                                                 </div>
-                                                <div class="flex gap-4 items-center my-6"><img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]" alt="Bullet Point" />
+                                                <div class="flex gap-4 items-center my-6"><img
+                                                        src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                        alt="Bullet Point" />
                                                     <ul>
                                                         <li>
-                                                            <p class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">Experienced developers and designers.</p>
+                                                            <p
+                                                                class=" font-medium text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                                Experienced developers and designers.</p>
                                                         </li>
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="flex mt-12"><button class="header-module--buttonChange--18e23 bg-black text-white items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span><span class="pb-[3px] md:pb-1.5 open-modal">Let&#x27;s Discuss</span></button></div>
+                                            <div class="flex mt-12"><button
+                                                    class="header-module--buttonChange--18e23 bg-black text-white items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm"><span
+                                                        class="pb-[3px] md:pb-1.5">Let&#x27;s Discuss</span><span
+                                                        class="pb-[3px] md:pb-1.5 open-modal">Let&#x27;s
+                                                        Discuss</span></button></div>
                                         </div>
-                                        <div class="w-full xl:w-[35%] lg:w-[40%] md:[45%] mt-14 md:mt-48 2xl:mt-56 hidden md:block lg:flex lg:flex-col lg:justify-end">
+                                        <div
+                                            class="w-full xl:w-[35%] lg:w-[40%] md:[45%] mt-14 md:mt-48 2xl:mt-56 hidden md:block lg:flex lg:flex-col lg:justify-end">
                                             <div class="grid grid-cols-12 gap-3">
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/jKC83wDmAFhx6HYeHAx8x/b6c38cda5d21a11bd8360105984539fb/androidservice1.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">C Sharp</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/jKC83wDmAFhx6HYeHAx8x/b6c38cda5d21a11bd8360105984539fb/androidservice1.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">C
+                                                                    Sharp</span></div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/3XDlipahFFHedTnQb6TAJP/28f274270183cdbceb0f02e2b364e0ea/androidservice2.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Android Service</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/3XDlipahFFHedTnQb6TAJP/28f274270183cdbceb0f02e2b364e0ea/androidservice2.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Android
+                                                                    Service</span></div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/2oVDrx3cgMPaMG0TEJ9FH2/40d946b163033a48a96fbf04171bc51a/androidservice3.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Xamarin</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/2oVDrx3cgMPaMG0TEJ9FH2/40d946b163033a48a96fbf04171bc51a/androidservice3.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Xamarin</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/2FEOByMr2CiYSVTBxPDbGu/45ddcfe760d01afd18f4fd56d6f7eeb7/androidservice4.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">JavaScript</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/2FEOByMr2CiYSVTBxPDbGu/45ddcfe760d01afd18f4fd56d6f7eeb7/androidservice4.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">JavaScript</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/5uw0ResNtGl5IKeCu18tRy/6e96aa4c87ef2be92bc39bf3ff4478b3/androidservice5.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Ionic</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/5uw0ResNtGl5IKeCu18tRy/6e96aa4c87ef2be92bc39bf3ff4478b3/androidservice5.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Ionic</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/1GgY9SlgecZBnFTJMUGJwH/c92c35875c69a4f013d242b472c3186b/androidservice6.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">React</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/1GgY9SlgecZBnFTJMUGJwH/c92c35875c69a4f013d242b472c3186b/androidservice6.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">React</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/5AxixgX0mWVE5zM8E0bHyB/72eb19734f0021351826731cf96597b6/androidservice7.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Flutter</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/5AxixgX0mWVE5zM8E0bHyB/72eb19734f0021351826731cf96597b6/androidservice7.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Flutter</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/nfJ65RrL1yH3GSZznvHh9/bf9fbff16afe58951c8af0061cbe9486/androidservice8.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Hive</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/nfJ65RrL1yH3GSZznvHh9/bf9fbff16afe58951c8af0061cbe9486/androidservice8.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Hive</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                                 <div class="col-span-4">
-                                                    <div class="block"><a class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img class="" src="https://images.ctfassets.net/mi665aivb0at/7wyXiV8IiDFEQSTWlxESIv/2c3ee41e057284d8d659c85aea8cdf20/androidservice9.svg" alt="App Pulse Asset" />
-                                                            <div class="text-center"><span class="text-sm font-medium leading-tight">Chopper</span></div>
+                                                    <div class="block"><a
+                                                            class="h-[123px] w-full bg-gray-100 md:px-3.5 py-5 border-transparent rounded-xl md:rounded-3xl font-medium md:font-normal text-[12px]  md:text-lg hover:bg-black hover:text-white transition duration-500 md:flex flex-col items-center justify-center gap-2 hover:shadow-lg hover:shadow-slate-400"><img
+                                                                class=""
+                                                                src="https://images.ctfassets.net/mi665aivb0at/7wyXiV8IiDFEQSTWlxESIv/2c3ee41e057284d8d659c85aea8cdf20/androidservice9.svg"
+                                                                alt="App Pulse Asset" />
+                                                            <div class="text-center"><span
+                                                                    class="text-sm font-medium leading-tight">Chopper</span>
+                                                            </div>
                                                         </a></div>
                                                 </div>
                                             </div>
@@ -265,32 +394,78 @@ include 'includes/header_script.php';
                                         <div class="lg:col-span-6 lg:pb-0 pb-12 lg:pr-14 2xl:pr-20">
                                             <div class="lg:sticky top-20">
                                                 <div class="lg:overflow-hidden">
-                                                    <h2 class="font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]"><span>our agile development approach.</span></h2>
+                                                    <h2
+                                                        class="font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                                        <span>our agile development approach.</span></h2>
                                                 </div>
-                                                <p class="lg:pt-[2.375rem] pt-6 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Our development teams follow an agile approach to power your product initiatives.</p>
+                                                <p
+                                                    class="lg:pt-[2.375rem] pt-6 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                    Our development teams follow an agile approach to power your product
+                                                    initiatives.</p>
                                             </div>
                                         </div>
                                         <div class="lg:col-span-6">
                                             <div class="flex flex-col gap-y-5">
-                                                <div style="background:#F1F1F1" class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg"><img /><span class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">01</span>
-                                                    <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Analysis</h3>
-                                                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Align your vision with market trends and our technical capabilities to create a strategic product roadmap.</p>
+                                                <div style="background:#F1F1F1"
+                                                    class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
+                                                    <img /><span
+                                                        class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">01</span>
+                                                    <h3
+                                                        class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                        Analysis</h3>
+                                                    <p
+                                                        class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                        Align your vision with market trends and our technical
+                                                        capabilities to create a strategic product roadmap.</p>
                                                 </div>
-                                                <div style="background:#F1F1F1" class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg"><img /><span class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">02</span>
-                                                    <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Design</h3>
-                                                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Craft easy-to-navigate interfaces and functional prototypes based on initial research.</p>
+                                                <div style="background:#F1F1F1"
+                                                    class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
+                                                    <img /><span
+                                                        class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">02</span>
+                                                    <h3
+                                                        class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                        Design</h3>
+                                                    <p
+                                                        class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                        Craft easy-to-navigate interfaces and functional prototypes
+                                                        based on initial research.</p>
                                                 </div>
-                                                <div style="background:#F1F1F1" class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg"><img /><span class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">03</span>
-                                                    <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Development</h3>
-                                                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Choose the optimal tech stack and collaborate with QA teams to ensure a stable, highly responsive MVP.</p>
+                                                <div style="background:#F1F1F1"
+                                                    class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
+                                                    <img /><span
+                                                        class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">03</span>
+                                                    <h3
+                                                        class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                        Development</h3>
+                                                    <p
+                                                        class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                        Choose the optimal tech stack and collaborate with QA teams to
+                                                        ensure a stable, highly responsive MVP.</p>
                                                 </div>
-                                                <div style="background:#F1F1F1" class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg"><img /><span class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">04</span>
-                                                    <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">QA &amp; Delivery</h3>
-                                                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Conduct extensive testing to ensure the MVP meets standards and works across platforms, accompanied by detailed release notes.</p>
+                                                <div style="background:#F1F1F1"
+                                                    class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
+                                                    <img /><span
+                                                        class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">04</span>
+                                                    <h3
+                                                        class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                        QA &amp; Delivery</h3>
+                                                    <p
+                                                        class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                        Conduct extensive testing to ensure the MVP meets standards and
+                                                        works across platforms, accompanied by detailed release notes.
+                                                    </p>
                                                 </div>
-                                                <div style="background:#F1F1F1" class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg"><img /><span class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">05</span>
-                                                    <h3 class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">Support</h3>
-                                                    <p class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Monitor the MVP’s performance, swiftly address feedback, and iteratively improve the product based on user feedback.</p>
+                                                <div style="background:#F1F1F1"
+                                                    class="theProcess px-7 pt-9 pb-7 lg:rounded-[30px] rounded-2xl darkBg">
+                                                    <img /><span
+                                                        class="font-bold text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">05</span>
+                                                    <h3
+                                                        class=" font-bold my-3 text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                        Support</h3>
+                                                    <p
+                                                        class="text-black text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                                        Monitor the MVP’s performance, swiftly address feedback, and
+                                                        iteratively improve the product based on user feedback.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -375,187 +550,170 @@ include 'includes/header_script.php';
                                 </div>
                             </section> -->
                             <?php include 'main_sections/tech-we-use-tab.php'?>
-                           
+
                             <section class="case-studies overfow-hidden">
                                 <div class="bg-white" id="case-studies">
                                     <div class="mx-auto max-w-7xl px-6 lg:px-8  undefined ">
-                                        <div class="grid grid-cols-1 md:grid-cols-2 mx-auto mt-12 lg:mt-20 gap-x-16 lg:gap-x-28"></div>
+                                        <div
+                                            class="grid grid-cols-1 md:grid-cols-2 mx-auto mt-12 lg:mt-20 gap-x-16 lg:gap-x-28">
+                                        </div>
                                     </div>
                                 </div>
                             </section>
                             <!-- Faq start -->
-<div class="faq-sec px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto pb-1.5"
->
-  <div class="lg:overflow-hidden">
-    <h2
-      class="font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
-      <span
-        ><span class="!normal-case">FAQs</span>frequently asked questions.</span
-      >
-    </h2>
-  </div>
-  <div class="space-y-6 lg:space-y-10 overflow-hidden pt-10 lg:pt-16">
-   
-    <div class="faq-item">
-      <button
-        class="faq-button flex w-full justify-between text-left pb-1"
-        type="button"
-        aria-expanded="false"
-      >
-        <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-        How much does MVP development cost?
-        </h3>
-        <span class="ml-6 flex h-7 items-center">
-          <span
-            class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]"
-            >+</span
-          >
-        </span>
-      </button>
-      <div class="faq-content hidden">
-        <p>
-        Costs for MVP development can vary based on app complexity and the tech stack used. Discuss your project scope with us for a custom cost estimation. Here’s a general range:
-        </p>
-        <div class="flex gap-4 items-center my-6">
-          <img
-            src="dist/images/arrow_icon.svg"
-            class="lg:w-[30px] w-[20px]"
-            alt="Bullet Point"
-          />
-          <ul>
-            <li>
-              <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
-              What technologies are used in MVP development?
-              </p>
-            </li>
-          </ul>
-        </div>
-        <div class="flex gap-4 items-center my-6">
-          <img
-            src="dist/images/arrow_icon.svg"
-            class="lg:w-[30px] w-[20px]"
-            alt="Bullet Point"
-          />
-          <ul>
-            <li>
-              <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
-              We use a modular architecture with lightweight technologies for quick development and easy modifications. Cloud services like AWS and Firebase provide serverless backends.
-            </li>
-          </ul>
-        </div>
-        <div class="flex gap-4 items-center my-6">
-          <img
-            src="dist/images/arrow_icon.svg"
-            class="lg:w-[30px] w-[20px]"
-            alt="Bullet Point"
-          />
-          <ul>
-            <li>
-              <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
-              How does MVP development provide business value?
-            </li>
-          </ul>
-        </div>
-     
-      </div>
-    </div>
-    <div class="faq-item">
-      <button
-        class="faq-button flex w-full justify-between text-left pb-1"
-        type="button"
-        aria-expanded="false"
-      >
-        <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-        How long does it take to develop an MVP?
-        </h3>
-        <span class="ml-6 flex h-7 items-center">
-          <span
-            class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]"
-            >+</span
-          >
-        </span>
-      </button>
-      <div class="faq-content hidden">
-        <p>
-        Generally, it takes between 2 and 6 months to create a functional MVP, depending on its features, complexity, and scope.
-        </p>
-       
-      </div>
-    </div>
-    <div class="faq-item">
-      <button
-        class="faq-button flex w-full justify-between text-left pb-1"
-        type="button"
-        aria-expanded="false"
-      >
-        <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-        What technologies are used in MVP development?
-        </h3>
-        <span class="ml-6 flex h-7 items-center">
-          <span
-            class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]"
-            >+</span
-          >
-        </span>
-      </button>
-      <div class="faq-content hidden">
-        <p>
-        We use a modular architecture with lightweight technologies for quick development and easy modifications. Cloud services like AWS and Firebase provide serverless backends.
-        </p>
-       
-      </div>
-    </div>
-    <div class="faq-item">
-      <button
-        class="faq-button flex w-full justify-between text-left pb-1"
-        type="button"
-        aria-expanded="false"
-      >
-        <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
-        How does MVP development provide business value?
-        </h3>
-        <span class="ml-6 flex h-7 items-center">
-          <span
-            class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]"
-            >+</span
-          >
-        </span>
-      </button>
-      <div class="faq-content hidden">
-        <p>
-        MVP development helps test your product idea early with real users, validate core concepts, gather valuable feedback, and catch potential issues in advance, saving time and resources.
-        </p>
-       
-      </div>
-    </div>
-  </div>
-</div>
+                            <div class="faq-sec px-6 lg:px-8 pt-14 md:pt-24 lg:pt-[10.5rem] max-w-7xl mx-auto pb-1.5">
+                                <div class="lg:overflow-hidden">
+                                    <h2
+                                        class="font-bold sentence-first-letter text-4xl xl:text-5xl 2xl:text-6xl tracking-[-2px] lg:-translate-y-[7px] xl:!leading-[55px] 2xl:!leading-[65px]">
+                                        <span><span class="!normal-case">FAQs</span>frequently asked questions.</span>
+                                    </h2>
+                                </div>
+                                <div class="space-y-6 lg:space-y-10 overflow-hidden pt-10 lg:pt-16">
 
-<!-- Faq end -->
+                                    <div class="faq-item">
+                                        <button class="faq-button flex w-full justify-between text-left pb-1"
+                                            type="button" aria-expanded="false">
+                                            <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                How much does MVP development cost?
+                                            </h3>
+                                            <span class="ml-6 flex h-7 items-center">
+                                                <span
+                                                    class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]">+</span>
+                                            </span>
+                                        </button>
+                                        <div class="faq-content hidden">
+                                            <p>
+                                                Costs for MVP development can vary based on app complexity and the tech
+                                                stack used. Discuss your project scope with us for a custom cost
+                                                estimation. Here’s a general range:
+                                            </p>
+                                            <div class="flex gap-4 items-center my-6">
+                                                <img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                    alt="Bullet Point" />
+                                                <ul>
+                                                    <li>
+                                                        <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                            What technologies are used in MVP development?
+                                                        </p>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="flex gap-4 items-center my-6">
+                                                <img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                    alt="Bullet Point" />
+                                                <ul>
+                                                    <li>
+                                                        <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                            We use a modular architecture with lightweight technologies
+                                                            for quick development and easy modifications. Cloud services
+                                                            like AWS and Firebase provide serverless backends.
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="flex gap-4 items-center my-6">
+                                                <img src="dist/images/arrow_icon.svg" class="lg:w-[30px] w-[20px]"
+                                                    alt="Bullet Point" />
+                                                <ul>
+                                                    <li>
+                                                        <p class="text-sm lg:text-md xl:text-lg 2xl:text-xl">
+                                                            How does MVP development provide business value?
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-button flex w-full justify-between text-left pb-1"
+                                            type="button" aria-expanded="false">
+                                            <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                How long does it take to develop an MVP?
+                                            </h3>
+                                            <span class="ml-6 flex h-7 items-center">
+                                                <span
+                                                    class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]">+</span>
+                                            </span>
+                                        </button>
+                                        <div class="faq-content hidden">
+                                            <p>
+                                                Generally, it takes between 2 and 6 months to create a functional MVP,
+                                                depending on its features, complexity, and scope.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-button flex w-full justify-between text-left pb-1"
+                                            type="button" aria-expanded="false">
+                                            <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                What technologies are used in MVP development?
+                                            </h3>
+                                            <span class="ml-6 flex h-7 items-center">
+                                                <span
+                                                    class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]">+</span>
+                                            </span>
+                                        </button>
+                                        <div class="faq-content hidden">
+                                            <p>
+                                                We use a modular architecture with lightweight technologies for quick
+                                                development and easy modifications. Cloud services like AWS and Firebase
+                                                provide serverless backends.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-button flex w-full justify-between text-left pb-1"
+                                            type="button" aria-expanded="false">
+                                            <h3 class="font-bold text-2xl xl:text-3xl 2xl:text-4xl tracking-[0px]">
+                                                How does MVP development provide business value?
+                                            </h3>
+                                            <span class="ml-6 flex h-7 items-center">
+                                                <span
+                                                    class="icon transform transition-transform duration-300 ease-in-out text-5xl font-normal mt-[8px]">+</span>
+                                            </span>
+                                        </button>
+                                        <div class="faq-content hidden">
+                                            <p>
+                                                MVP development helps test your product idea early with real users,
+                                                validate core concepts, gather valuable feedback, and catch potential
+                                                issues in advance, saving time and resources.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Faq end -->
 
                         </main>
                         <div class="block">
                             <style>
                                 .dark-theme .start-project {
-                                    background-color: !important;
+                                    background-color:  !important;
                                 }
                             </style>
-  <section id="topfooter"
-                class="start-project bg-white relative w-full lg:min-h-[80vh] z-50 flex items-center justify-center -top-0.5">
-                <div class="pt-14 mx-auto text-center max-w-7xl px-6 md:py-24 pb-14 lg:px-8">
-                  <p class="text-black mb-2 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">Start building your MVP
-                  </p>
-                  <div class="overflow-hidden">
-                    <h2
-                      class="text-black font-extrabold text-[43px] leading-none lg:text-6xl xl:text-7xl 2xl:text-8xl lg:tracking-[-4px] tracking-[-2px] pb-2 2xl:pb-[11px]">
-                      Ready to Lead <br class="min-[580px]:block hidden"/> Your Industry?</h2>
-                  </div>
-                  <div class="lg:mt-4 mt-1 flex items-center justify-center gap-x-4">
-                    <button class="header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm open-btns open-modal" ><span class="pb-[3px] md:pb-1.5">Get Started</span><span class="pb-[3px] md:pb-1.5">Get Started</span></button>
-                  </div>
-                </div>
-              </section>
-             <?php
+                            <section id="topfooter"
+                                class="start-project bg-white relative w-full lg:min-h-[80vh] z-50 flex items-center justify-center -top-0.5">
+                                <div class="pt-14 mx-auto text-center max-w-7xl px-6 md:py-24 pb-14 lg:px-8">
+                                    <p class="text-black mb-2 text-base md:text-md lg:text-lg xl:text-xl 2xl:text-2xl">
+                                        Start building your MVP
+                                    </p>
+                                    <div class="overflow-hidden">
+                                        <h2
+                                            class="text-black font-extrabold text-[43px] leading-none lg:text-6xl xl:text-7xl 2xl:text-8xl lg:tracking-[-4px] tracking-[-2px] pb-2 2xl:pb-[11px]">
+                                            Ready to Lead <br class="min-[580px]:block hidden" /> Your Industry?</h2>
+                                    </div>
+                                    <div class="lg:mt-4 mt-1 flex items-center justify-center gap-x-4">
+                                        <button
+                                            class="header-module--buttonChange--18e23 bg-black text-white mt-2 items-center px-6 md:px-11 h-[40px] md:h-12 border-transparent rounded-full font-extrabold text-sm open-btns open-modal"><span
+                                                class="pb-[3px] md:pb-1.5">Get Started</span><span
+                                                class="pb-[3px] md:pb-1.5">Get Started</span></button>
+                                    </div>
+                                </div>
+                            </section>
+                            <?php
 include 'includes/footer.php';
 ?>
                         </div>
@@ -563,7 +721,9 @@ include 'includes/footer.php';
                 </div>
             </div>
         </div>
-        <div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div>
+        <div id="gatsby-announcer"
+            style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0"
+            aria-live="assertive" aria-atomic="true"></div>
     </div>
     <?php
 include 'includes/footer_script.php';
@@ -581,27 +741,28 @@ include 'includes/footer_script.php';
             button.setAttribute('aria-expanded', !isExpanded);
             content.classList.toggle('hidden');
             content.classList.toggle('block');
-                        if (!isExpanded) {
-                            heading.style.color = '#eeb736';
-                            icon.style.color = '#eeb736';
-                            icon.textContent = '−';
-                        } else {
-                            heading.style.color = '';
-                            icon.style.color = '';
-                            icon.textContent = '+';
-                        }
-                    });
-                });
-                </script>
-                    <style>
-                        .faq-content.hidden {
-                            display: none;
-                        }
-                        .faq-content.block {
-                            display: block;
-                            padding-top: 1rem;
-                        }
-                    </style>
-                    
+            if (!isExpanded) {
+                heading.style.color = '#eeb736';
+                icon.style.color = '#eeb736';
+                icon.textContent = '−';
+            } else {
+                heading.style.color = '';
+                icon.style.color = '';
+                icon.textContent = '+';
+            }
+        });
+    });
+</script>
+<style>
+    .faq-content.hidden {
+        display: none;
+    }
+
+    .faq-content.block {
+        display: block;
+        padding-top: 1rem;
+    }
+</style>
+
 
 </html>

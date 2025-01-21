@@ -10,9 +10,10 @@ include 'includes/header_script.php';
   <div id="___gatsby">
     <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
       <div id="smooth-wrapper">
+      <?php include 'includes/respon-navi.php'?>
        <?php include 'includes/navbar.php'?>
                 <div id="smooth-content">
-                    <div class=" relative z-50 ">
+                    <div class=" relative z-40 ">
                         <main>
                             <section class="HalfTextContent-sec">
                                 <div class="px-6 lg:px-8 pt-40 lg:pt-[10.5rem] max-w-7xl mx-auto">
@@ -418,6 +419,7 @@ include 'includes/header_script.php';
                                     </div>
                                 </div>
                             </section> -->
+                            <?php include 'main_sections/portfolio.php'?>
                             <section class="case-studies overfow-hidden">
                                 <div class="bg-white" id="case-studies">
                                     <div class="mx-auto max-w-7xl px-6 lg:px-8  undefined ">

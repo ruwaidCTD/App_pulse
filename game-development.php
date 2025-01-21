@@ -14,9 +14,10 @@
   <div id="___gatsby">
     <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
       <div id="smooth-wrapper">
+      <?php include 'includes/respon-navi.php'?>
        <?php include 'includes/navbar.php'?>
                     <div id="smooth-content">
-                        <div class="black-theme relative z-50">
+                        <div class="black-theme relative z-40">
                             <main>
                                 <section class="hero-sec relative overflow-hidden bg-cover service-module--gameBgGradient--9f97f" style="background-image: url(../static/gameHerobg-aaf7506d55d8a8464936a2663da6839e.webp);">
                                     <div class="h-[90vh] flex justify-center items-center flex-col max-w-7xl mx-auto relative undefined">

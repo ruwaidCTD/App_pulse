@@ -14,9 +14,10 @@ include 'includes/header_script.php';
   <div id="___gatsby">
     <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
       <div id="smooth-wrapper">
+      <?php include 'includes/respon-navi.php'?>
        <?php include 'includes/navbar.php'?>
         <div id="smooth-content">
-          <div class="undefined relative z-50 ">
+          <div class="undefined relative z-40 ">
             <main>
               <section class="hero-sec pb-0 lg:pb-8">
                 <div class="max-w-7xl px-6 lg:px-8 mx-auto pt-36 lg:pt-40 lg:pb-16 pb-10">

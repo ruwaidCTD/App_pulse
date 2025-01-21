@@ -124,10 +124,12 @@ $(document).ready(function () {
   // Open Modal Animation
   $('.open-modal').on('click', function () {
     modal.css('display', 'flex'); // Make modal visible
+    const xPos = window.innerWidth > 768 ? 310 : 0; // Adjust position for smaller screens
+
     gsap.fromTo(
       modalBox,
-      { x: 310, }, // Start position (offscreen)
-      { x: 0, opacity: 1, duration: 0.5, ease: 'power2.out' } // End position (centered)
+      { x: xPos, opacity: 0 }, // Start position and opacity
+      { x: 0, opacity: 1, duration: 0.5, ease: 'power2.out' } // End position and fade in
     );
   });
 
@@ -153,12 +155,13 @@ $(document).ready(function () {
         duration: 0.4, // Duration of the closing animation
         ease: 'power2.in', // Easing for smoother transition
         onComplete: function () {
-          modal.css('display', 'none'); // rwd Hide modal after animation completes
+          modal.css('display', 'none'); // Hide modal after animation completes
         }
       });
     }
   });
 });
+
   // Scroll To Top
   function scrollToTop() {
     window.scrollTo({

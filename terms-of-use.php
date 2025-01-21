@@ -14,9 +14,10 @@
     <div id="___gatsby">
         <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
             <div id="smooth-wrapper">
+            <?php include 'includes/respon-navi.php'?>
                 <?php include 'includes/navbar.php'?>
                     <div id="smooth-content">
-                        <div class="undefined relative z-50">
+                        <div class="undefined relative z-40">
                             <main>
                                 <div class="mx-auto max-w-7xl px-6 pt-36 sm:pt-[10.5rem] lg:px-8">
                                     <div class="lg:mx-[10%] text-left">

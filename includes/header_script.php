@@ -10209,8 +10209,7 @@ button.open-modal:hover {
   width: 50%;
   border-radius: 10px;
   position: fixed;
-  /* transform: translateX(-310px); */
-  transform: translate(800px, 0px);
+  transform: translateX(-310px);
   opacity: 0;
   height: 100%;
   overflow: scroll;
@@ -10224,6 +10223,8 @@ button.open-modal:hover {
 .modal-box p {
   color: #555;
   margin: 10px 0;
+font-size: 0.9rem;
+
 }
 
 .close-modal {
@@ -10474,6 +10475,7 @@ section.client-sec img{
 a.home-module--buttonChange--28cf1.mt-5.w-\[200px\].mr-2.customClasse.bg-gray-100.px-3\.5.py-5.border-transparent.rounded-3xl.sm\:rounded-\[2\.45rem\].font-normal.md\:text-lg.text-sm.hover\:bg-black.hover\:text-white.transition.duration-500.flex.flex-row.items-center.lg\:gap-5.gap-3.md\:hover\:shadow-lg.md\:hover\:shadow-slate-400 img.md\:h-\[35px\].md\:w-\[35px\].h-\[25px\].w-\[25px\].hoverClass:hover{
   filter: invert(1) !important;
 } */
+
 
   </style>
   

@@ -15,9 +15,10 @@ include 'includes/header_script.php';
   <div id="___gatsby">
     <div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper">
       <div id="smooth-wrapper">
+      <?php include 'includes/respon-navi.php'?>
        <?php include 'includes/navbar.php'?>
         <div id="smooth-content">
-          <div class="undefined relative z-50">
+          <div class="undefined relative z-40">
             <main>
               <section class="service-module--heroGradient--bed34 hero relative overflow-x-hidden">
                 <div class="min-h-screen flex justify-center items-center flex-col max-w-7xl mx-auto relative">
